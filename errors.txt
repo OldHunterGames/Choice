@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 45: 'mousewell' is not a keyword argument or valid child for the viewport statement.
+    mousewell True
+             ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Tue Sep 26 15:52:51 2023
