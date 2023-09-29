@@ -42,16 +42,19 @@ label start:
    
     scene bg dancefloor
 
-    show kristen dress shoked
+    show kristen dress happy
     with dissolve
 
     "We are dancing"
 
-    call screen viewport_screen
+    #call screen viewport_screen
 
     "The song is over and we get back to a bar, to get two more shots"
 
     scene bg bar
+
+    show kristen dress calm
+    with dissolve
 
     k "Do you whant to continue in my place?"
 
@@ -66,6 +69,9 @@ label start:
     scene bg room
 
     pc "It's a nice place"
+
+    show kristen dress calm
+    with dissolve    
 
     k "Thanks!"
 
@@ -89,17 +95,24 @@ label make_love:
 
     pc "...kiss you!"
 
+    show kristen dress happy
+    with dissolve    
+
     "We are kissing"
 
     k "Sit down, Anton. I'll dance for you"
 
-    "Kristen start ro dance"
+    "Kristen starts to dance"
+
+    show kristen lingerie happy
+    with dissolve
 
     "Kristen takes off her dress"
+    
+    show kristen nude happy
+    with dissolve
 
-    "And then her bra"
-
-    "And finaly her painties"
+    "And then her bra underware"
 
     k "Sooo... do you enjoy the show?"
 
@@ -114,6 +127,9 @@ label make_love:
     return
 
 label sex_selector:
+
+    scene bg room
+
     menu:
         "Blowjob":
             if doneOral:
@@ -134,18 +150,24 @@ label sex_selector:
     return 
 
 label blowjob:
+
+    show full bj happy
     "Kristen blows my dick"
     jump sex_selector
 
     return
 
 label sex:
+    
+    show full sex happy
     "I fuck her"
     jump sex_selector
 
     return
 
 label anal:
+
+    show full anal
     "I fuck her in the ass"
     jump sex_selector
 
@@ -153,6 +175,7 @@ label anal:
 
 label cum_face:
 
+    show full bj happy
     "My semen is all over her face"
     jump goodbye_kiss
     
@@ -160,6 +183,7 @@ label cum_face:
 
 label cum_belly:
 
+    show full sex happy
     "My semen is all over her belly"
     jump goodbye_kiss
     
@@ -167,12 +191,17 @@ label cum_belly:
 
 label cum_back:
 
+    show full anal
     "My semen is all over her back"
     jump goodbye_kiss
     
     return
 
 label goodbye_kiss:
+    scene bg room
+    show kristen nude happy
+    with dissolve
+
     "I kissed her one more time and leave"
 
     "FIN"
@@ -180,20 +209,43 @@ label goodbye_kiss:
     return
 
 label rape: 
-
+    
     pc "...rape you!"
+    
+    show kristen dress shoked
+    with dissolve    
+
+    "I grab my gun and point in on her"
+
+    pc "Now, take of you fucking clothes, bitch!"
+
+    k "Please don't shot me! I'll do anything you want..."
+
+    "Kristen starts to unress"
+
+    show kristen lingerie shoked
+    with dissolve
+
+    "She is unressing reluctantly"
+    
+    show kristen nude shoked
+    with dissolve
+
+    "And now she is standing nude and fearful in front of me"
+
     jump rape_selector
 
     return 
 
 label rape_selector:
+    scene bg room
+
     menu:
         "Fuck her throat":
             if doneOral:
                 jump cum_throat
             $ doneOral = True      
             jump throatfuck
-
         "Forced sex":
             if doneVaginal:
                 jump impregnate
@@ -207,25 +259,32 @@ label rape_selector:
     return 
 
 label throatfuck:
-    "Kristen blows my dick"
-    jump sex_selector
+
+    show full bj tears
+    "I shove my dick in a slut's mouth"
+    jump rape_selector
 
     return
 
 label forced_sex:
-    "I fuck her"
-    jump sex_selector
+
+    show full sex tears
+    "I fuck her hard"
+    jump rape_selector
 
     return
 
 label anal_rape:
-    "I fuck her in the ass"
-    jump sex_selector
+
+    show full anal
+    "I fuck her in the ass forcefully"
+    jump rape_selector
 
     return
 
 label cum_throat:
 
+    show full bj tears
     "My semen is all over her face"
     jump flee
     
@@ -233,19 +292,23 @@ label cum_throat:
 
 label impregnate:
 
-    "My semen is all over her belly"
+    show full sex tears
+    "I'm cumming in her womb"
     jump flee
     
     return
 
 label cum_ass:
 
-    "My semen is all over her back"
+    show full anal
+    "I cum deep in her asshole"
     jump flee
     
     return
 
 label flee:
+    scene bg room
+
     "She lying in a puddle of my semen. Time to get out!"
 
     "FIN"
