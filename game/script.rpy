@@ -5,15 +5,97 @@ define doneOral = False
 define doneVaginal = False
 define doneAnal = False
 
+init -10 python:
+    import math
+    import pygame
+    def clamp(input, min, max):
+        return input < min and min or input > max and max or input
+
+    def map_range(current, in_min, in_max, out_min, out_max):
+        mapped = (current - in_min) * (out_max - out_min) / (in_max - in_min) + out_min
+
+        return clamp(mapped, out_min, out_max)
+
+    class TrackCursor(renpy.Displayable):
+
+        def __init__(self, child, width, height, **kwargs):
+
+            super(TrackCursor, self).__init__()
+
+            self.child = renpy.displayable(child)
+            self.x = 0
+            self.y = 0
+            self.actual_x = 0
+            self.actual_y = 0
+            self.actual_width = width
+            self.actual_height = height
+
+            self.last_st = 0
+
+            self.x_diff = abs(config.screen_width - width)
+            self.y_diff = abs(config.screen_height - height)
+            print(self.y_diff, "self.y_diff")
+
+
+
+        def render(self, width, height, st, at):
+
+            rv = renpy.Render(width, height)
+            minimum_speed = 0.5
+            maximum_speed = 3
+            speed = 1 + minimum_speed
+            mouse_distance_x = min(maximum_speed, max(minimum_speed, (self.x - self.actual_x)))
+            mouse_distance_y = (self.y - self.actual_y)
+            if self.x is not None:
+                st_change = st - self.last_st
+
+                self.last_st = st
+                self.actual_x = math.floor(self.actual_x + ((self.x - self.actual_x) * speed * (st_change )))
+                self.actual_y = math.floor(self.actual_y + ((self.y - self.actual_y) * speed * (st_change)))
+
+
+                if mouse_distance_y <= minimum_speed:
+                    mouse_distance_y = minimum_speed
+                elif mouse_distance_y >= maximum_speed:
+                    mouse_distance_y = maximum_speed
+
+                cr = renpy.render(self.child, width, height, st, at)
+                cw, ch = cr.get_size()
+
+                render_x = map_range(self.actual_x, 0, config.screen_width, 0, self.x_diff)
+                render_y = map_range(self.actual_y, 0, config.screen_height, 0, self.y_diff)
+                print('self.y', self.y)
+                print('render_y', render_y)
+                rv.blit(cr, (render_x, render_y))
+
+
+
+            renpy.redraw(self, 0)
+            return rv
+
+        def event(self, ev, x, y, st):
+            hover = ev.type == pygame.MOUSEMOTION
+            click = ev.type == pygame.MOUSEBUTTONDOWN
+            mousefocus = pygame.mouse.get_focused()
+            if hover:
+
+                if (x != self.x) or (y != self.y) or click:
+                    self.x = -x
+                    self.y = -y
+
 # The game starts here.
-
+image kek = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout dance.png"), 1980, 2970)
+image anal = "[persistent.graphic_mode]/full anal.png"
 label start:
-
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
     scene bg bar
+    show kek
+    "Test"
+    hide kek
+    show anal
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images

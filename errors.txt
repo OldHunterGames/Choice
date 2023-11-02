@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 45: 'mousewell' is not a keyword argument or valid child for the viewport statement.
-    mousewell True
-             ^
+File "game/script.rpy", line 96: expected 'image_name_component' not found.
+    show "[persistent.graphic_mode]/full anal.png"
+         ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Tue Sep 26 15:52:51 2023
+Fri Nov  3 01:23:17 2023

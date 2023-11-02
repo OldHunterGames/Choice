@@ -1,0 +1,1 @@
+default persistent.graphic_mode = 'cartoon'

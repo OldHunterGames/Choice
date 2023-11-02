@@ -309,6 +309,14 @@ screen navigation():
 
         textbutton _("Preferences") action ShowMenu("preferences")
 
+        vbox:
+            style_prefix 'radio'
+            label _("Graphic Mode")
+            textbutton _("Comix") action SetField(persistent, "graphic_mode", "comix"), Function(renpy.reload_script)
+            textbutton _("Cartoon") action SetField(persistent, "graphic_mode", "cartoon"), Function(renpy.reload_script)
+            textbutton _("Photoreal") action SetField(persistent, "graphic_mode", "photoreal"), Function(renpy.reload_script)
+            textbutton _("Pseudo3d") action SetField(persistent, "graphic_mode", "pseudo3d"), Function(renpy.reload_script)
+
         if _in_replay:
 
             textbutton _("End Replay") action EndReplay(confirm=True)
@@ -353,7 +361,7 @@ screen main_menu():
     ## This ensures that any other menu screen is replaced.
     tag menu
 
-    add gui.main_menu_background
+    add f"gui/{persistent.graphic_mode}/main_menu.png"
 
     ## This empty frame darkens the main menu.
     frame:
@@ -733,6 +741,15 @@ screen preferences():
                     textbutton _("Unseen Text") action Preference("skip", "toggle")
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
+
+                
+                vbox:
+                    style_prefix 'radio'
+                    label _("Graphic Mode")
+                    textbutton _("Comix") action SetField(persistent, "graphic_mode", "comix"), Function(renpy.reload_script)
+                    textbutton _("Cartoon") action SetField(persistent, "graphic_mode", "cartoon"), Function(renpy.reload_script)
+                    textbutton _("Photoreal") action SetField(persistent, "graphic_mode", "photoreal"), Function(renpy.reload_script)
+                    textbutton _("Pseudo3d") action SetField(persistent, "graphic_mode", "pseudo3d"), Function(renpy.reload_script)
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
