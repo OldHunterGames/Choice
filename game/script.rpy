@@ -84,23 +84,39 @@ init -10 python:
                     self.y = -y
 
 # The game starts here.
-image kek = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout dance.png"), 1980, 2970)
-image anal = "[persistent.graphic_mode]/full anal.png"
+# image kek = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout dance.png"), 1980, 2970)
+# image anal = "[persistent.graphic_mode]/full anal.png"
+
+image checkout dance = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout dance.png"), 1980, 2970)
+image checkout love = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout love.png"), 1980, 2970)
+image checkout rape = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout rape.png"), 1980, 2970)
+
+image bg bar = "[persistent.graphic_mode]/bg bar.png"
+image bg dancefloor = "[persistent.graphic_mode]/bg dancefloor.png"
+image bg parking = "[persistent.graphic_mode]/bg parking.png"
+image bg room = "[persistent.graphic_mode]/bg room.png"
+image full anal = "[persistent.graphic_mode]/full anal.png"
+image full happy = "[persistent.graphic_mode]/full happy.png"
+image full tears = "[persistent.graphic_mode]/full tears.png"
+image full sex happy = "[persistent.graphic_mode]/full sex happy.png"
+image full sex tears = "[persistent.graphic_mode]/full sex tears.png"
+image kristen dress calm = "[persistent.graphic_mode]/kristen dress calm.png"
+image kristen dress arrogant = "[persistent.graphic_mode]/kristen dress arrogant.png"
+image kristen dress happy = "[persistent.graphic_mode]/kristen dress happy.png"
+image kristen dress shoked = "[persistent.graphic_mode]/kristen dress happy.png"
+image kristen lingerie happy = "[persistent.graphic_mode]/kristen lingerie happy.png"
+image kristen lingerie shoked = "[persistent.graphic_mode]/kristen lingerie shoked.png"
+image kristen nude happy = "[persistent.graphic_mode]/kristen nude happy.png"
+image kristen nude shoked = "[persistent.graphic_mode]/kristen nude shoked.png"
+
 label start:
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
     scene bg bar
-    show kek onlayer master
-    "Test"
+    # show kek onlayer master
     # hide kek
-    show anal
-
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
-
 
     "I'm in a night club looking for a date for a night"
 
@@ -129,7 +145,7 @@ label start:
 
     "We are dancing"
 
-    #call screen viewport_screen
+    show checkout dance onlayer master
 
     "The song is over and we get back to a bar, to get two more shots"
 
@@ -195,6 +211,8 @@ label make_love:
     with dissolve
 
     "And then her bra underware"
+
+    show checkout love onlayer master
 
     k "Sooo... do you enjoy the show?"
 
@@ -314,6 +332,8 @@ label rape:
     with dissolve
 
     "And now she is standing nude and fearful in front of me"
+
+    show checkout love onlayer master
 
     jump rape_selector
 
