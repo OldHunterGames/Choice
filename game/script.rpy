@@ -103,7 +103,7 @@ image full sex tears = "[persistent.graphic_mode]/full sex tears.png"
 image kristen dress calm = "[persistent.graphic_mode]/kristen dress calm.png"
 image kristen dress arrogant = "[persistent.graphic_mode]/kristen dress arrogant.png"
 image kristen dress happy = "[persistent.graphic_mode]/kristen dress happy.png"
-image kristen dress shoked = "[persistent.graphic_mode]/kristen dress happy.png"
+image kristen dress shoked = "[persistent.graphic_mode]/kristen dress shoked.png"
 image kristen lingerie happy = "[persistent.graphic_mode]/kristen lingerie happy.png"
 image kristen lingerie shoked = "[persistent.graphic_mode]/kristen lingerie shoked.png"
 image kristen nude happy = "[persistent.graphic_mode]/kristen nude happy.png"
@@ -219,6 +219,7 @@ label make_love:
     show checkout love onlayer master
     pause
     window auto
+    
     k "Sooo... do you enjoy the show?"
 
     pc "Come here and chek it yourself"
@@ -339,7 +340,7 @@ label rape:
     "And now she is standing nude and fearful in front of me"
 
     window hide
-    show checkout love onlayer master
+    show checkout rape onlayer master
     pause
     window auto
 
