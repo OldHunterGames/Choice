@@ -92,9 +92,9 @@ label start:
     # images directory to show it.
 
     scene bg bar
-    show kek
+    show kek onlayer master
     "Test"
-    hide kek
+    # hide kek
     show anal
 
     # This shows a character sprite. A placeholder is used, but you can
