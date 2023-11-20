@@ -145,9 +145,12 @@ label start:
 
     "We are dancing"
 
+    window hide
     show checkout dance onlayer master
-
+    pause
+    window auto
     "The song is over and we get back to a bar, to get two more shots"
+    
 
     scene bg bar
 
@@ -212,8 +215,10 @@ label make_love:
 
     "And then her bra underware"
 
+    window hide
     show checkout love onlayer master
-
+    pause
+    window auto
     k "Sooo... do you enjoy the show?"
 
     pc "Come here and chek it yourself"
@@ -333,7 +338,10 @@ label rape:
 
     "And now she is standing nude and fearful in front of me"
 
+    window hide
     show checkout love onlayer master
+    pause
+    window auto
 
     jump rape_selector
 
