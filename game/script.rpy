@@ -87,7 +87,7 @@ init -10 python:
 # image kek = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout dance.png"), 1980, 2970)
 # image anal = "[persistent.graphic_mode]/full anal.png"
 
-image checkout dance = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout dance.png"), 1980, 2970)
+image checkout dance = f"images/{persistent.graphic_mode}/checkout dance.png"
 image checkout love = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout love.png"), 1980, 2970)
 image checkout rape = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout rape.png"), 1980, 2970)
 
@@ -109,11 +109,21 @@ image kristen lingerie shoked = "[persistent.graphic_mode]/kristen lingerie shok
 image kristen nude happy = "[persistent.graphic_mode]/kristen nude happy.png"
 image kristen nude shoked = "[persistent.graphic_mode]/kristen nude shoked.png"
 
+transform move_image:
+    yalign 0.0
+    linear 5.0 yalign 1.0
+
 label start:
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
+    scene bg bar
+    # call screen my_screen
+    window hide
+    show checkout dance at move_image
+    pause
+    window auto
     scene bg bar
     # show kek onlayer master
     # hide kek
