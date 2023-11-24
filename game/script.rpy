@@ -89,8 +89,8 @@ init -10 python:
 # image anal = "[persistent.graphic_mode]/full anal.png"
 
 image checkout dance = f"images/{persistent.graphic_mode}/checkout dance.png"
-image checkout love = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout love.png"), 1980, 2970)
-image checkout rape = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout rape.png"), 1980, 2970)
+image checkout love = f"images/{persistent.graphic_mode}/checkout love.png"
+image checkout rape = f"images/{persistent.graphic_mode}/checkout rape.png"
 
 image bg bar = "[persistent.graphic_mode]/bg bar.png"
 image bg dancefloor = "[persistent.graphic_mode]/bg dancefloor.png"
@@ -241,9 +241,14 @@ label start:
     "I couldn't take my eyes off of Kristen as she danced seductively for me." 
 
     window hide
-    show checkout dance onlayer master
+    show checkout dance onlayer master at move_image
     pause
     window auto
+
+    scene bg parking
+
+    show kristen dress calm
+    with dissolve
 
     "The sight was intoxicating, and I felt himself growing harder with every move she made."
     "I stepped closer to her until our bodies were pressed together; the heat between us palpable even through our clothes."
@@ -256,10 +261,7 @@ label start:
     k "But I have a better idea." 
     'With that, she grabbed my hand and led us both towards the exit.'
 
-    scene bg parking
-
-    show kristen dress calm
-    with dissolve
+    
 
     'As we stepped out into the cool night air, Kristen glanced around to make sure no one was watching before pulling I towards a dark alleyway between two buildings.'
     'Her heart pounded in her chest with excitement and nerves as she pressed herself against me once more - this time feeling my arousal clearly through our clothes.'
@@ -370,7 +372,7 @@ label make_love:
     'She stepped out of them, leaving herself completely naked before my hungry eyes…'
 
     window hide
-    show checkout love onlayer master
+    show checkout love onlayer master at move_image
     pause
     window auto
 
@@ -710,7 +712,7 @@ label rape:
     "Her heart races as she steps out of her underwear, standing before me completely naked."
 
     window hide
-    show checkout rape onlayer master
+    show checkout rape onlayer master at move_image
     pause
     window auto
 
