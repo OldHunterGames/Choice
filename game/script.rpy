@@ -117,6 +117,24 @@ transform move_image:
     linear 6.0 yalign 1.0
     linear 6.0 yalign 0.0
 
+screen language_selection():
+    vbox:
+        text "Select your language":
+            xalign 0.5
+        xalign 0.5
+        yalign 0.5
+        spacing 20
+        hbox:
+            spacing 50
+
+            imagebutton idle im.Scale("gui/eng.png", 200, 200) action Language(None), Return()
+            imagebutton idle im.Scale("gui/rus.png", 200, 200) action Language("rus"), Return()    
+
+label splashscreen:
+    call screen language_selection
+
+    return
+
 label start:
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
