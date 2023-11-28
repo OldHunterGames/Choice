@@ -7,6 +7,34 @@ define doneVaginal = False
 define doneAnal = False
 
 init -10 python:
+    import random
+
+    prev_selection = None
+    play_music = False
+
+    class MusicPlayer:
+        def __init__(self):
+            self.prev_selection = None
+            self.play_music = False
+        
+        def play_random_music(self):
+            if not self.play_music:
+                return
+            music_files = ['/sound/music/pulsingBas01.ogg', '/sound/music/pulsingBas02.ogg', '/sound/music/pulsingBas03.ogg', '/sound/music/pulsingBas04.ogg']
+            random_music_file = random.choice([i for i in music_files if i != self.prev_selection])
+            self.prev_selection = random_music_file
+            
+            renpy.music.play(random_music_file)
+
+        def check_music(self, _a, _b):
+            if not renpy.music.get_playing(channel='music'):
+                self.play_random_music()
+            
+            return Text("Hello"), .1
+
+    music_player = MusicPlayer()
+
+init -10 python:
     import math
     import pygame
     def clamp(input, min, max):
@@ -135,7 +163,9 @@ label splashscreen:
 
     return
 
+image musicChecker = DynamicDisplayable(music_player.check_music)
 label start:
+
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
@@ -146,6 +176,8 @@ label start:
     #pause
     #window auto
     scene bg bar
+    $ music_player.play_music = True
+    show musicChecker
 
     'I sauntered into the bustling nightclub, my eyes scanning the crowd for my next conquest.'
     'The pulsing bassline of electronic music throbbed through the air as I made my way to the bar, ordering a drink with an easy smile on my lips.'
