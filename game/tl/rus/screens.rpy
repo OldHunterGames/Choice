@@ -4,345 +4,345 @@ translate rus strings:
 
     # game/screens.rpy:252
     old "Back"
-    new ""
+    new "Назад"
 
     # game/screens.rpy:253
     old "History"
-    new ""
+    new "История"
 
     # game/screens.rpy:254
     old "Skip"
-    new ""
+    new "Листать"
 
     # game/screens.rpy:255
     old "Auto"
-    new ""
+    new "Авто"
 
     # game/screens.rpy:256
     old "Save"
-    new ""
+    new "Сохранить"
 
     # game/screens.rpy:257
     old "Q.Save"
-    new ""
+    new "Б.Сохр"
 
     # game/screens.rpy:258
     old "Q.Load"
-    new ""
+    new "Б.Загр"
 
     # game/screens.rpy:259
     old "Prefs"
-    new ""
+    new "Опции"
 
     # game/screens.rpy:300
     old "Start"
-    new ""
+    new "Старт"
 
     # game/screens.rpy:308
     old "Load"
-    new ""
+    new "Загрузить"
 
     # game/screens.rpy:310
     old "Preferences"
-    new ""
+    new "Настройки"
 
     # game/screens.rpy:314
     old "Graphic Mode"
-    new ""
+    new "Графический стиль"
 
     # game/screens.rpy:315
     old "Comix"
-    new ""
+    new "Комикс"
 
     # game/screens.rpy:316
     old "Cartoon"
-    new ""
+    new "Мультяшка"
 
     # game/screens.rpy:317
     old "Photoreal"
-    new ""
+    new "Реализм"
 
     # game/screens.rpy:318
     old "Pseudo3d"
-    new ""
+    new "Пасевдо 3D"
 
     # game/screens.rpy:322
     old "End Replay"
-    new ""
+    new "Завершить реплей"
 
     # game/screens.rpy:326
     old "Main Menu"
-    new ""
+    new "Главное меню"
 
     # game/screens.rpy:328
     old "About"
-    new ""
+    new "Инфо"
 
     # game/screens.rpy:333
     old "Help"
-    new ""
+    new "Помощь"
 
     # game/screens.rpy:339
     old "Quit"
-    new ""
+    new "Выход"
 
     # game/screens.rpy:480
     old "Return"
-    new ""
+    new "Назад"
 
     # game/screens.rpy:564
     old "Version [config.version!t]\n"
-    new ""
+    new "Версия [config.version!t]\n"
 
     # game/screens.rpy:570
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:606
     old "Page {}"
-    new ""
+    new "Страница  {}"
 
     # game/screens.rpy:606
     old "Automatic saves"
-    new ""
+    new "Автосохраниения"
 
     # game/screens.rpy:606
     old "Quick saves"
-    new ""
+    new "Быстрые сохраниения"
 
     # game/screens.rpy:648
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:648
     old "empty slot"
-    new ""
+    new "пустой слот"
 
     # game/screens.rpy:665
     old "<"
-    new ""
+    new "<"
 
     # game/screens.rpy:668
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/screens.rpy:671
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}Q"
 
     # game/screens.rpy:677
     old ">"
-    new ""
+    new ">"
 
     # game/screens.rpy:734
     old "Display"
-    new ""
+    new "Дисплей"
 
     # game/screens.rpy:735
     old "Window"
-    new ""
+    new "Окно"
 
     # game/screens.rpy:736
     old "Fullscreen"
-    new ""
+    new "На полный экран"
 
     # game/screens.rpy:741
     old "Unseen Text"
-    new ""
+    new "Незнакомый текст"
 
     # game/screens.rpy:742
     old "After Choices"
-    new ""
+    new "После выборов"
 
     # game/screens.rpy:743
     old "Transitions"
-    new ""
+    new "Переходы"
 
     # game/screens.rpy:765
     old "Text Speed"
-    new ""
+    new "Скорость текста"
 
     # game/screens.rpy:769
     old "Auto-Forward Time"
-    new ""
+    new "Время автолистания"
 
     # game/screens.rpy:776
     old "Music Volume"
-    new ""
+    new "Громкость музыки"
 
     # game/screens.rpy:783
     old "Sound Volume"
-    new ""
+    new "Громкость звука"
 
     # game/screens.rpy:789
     old "Test"
-    new ""
+    new "Тест"
 
     # game/screens.rpy:793
     old "Voice Volume"
-    new ""
+    new "Громкость голоса"
 
     # game/screens.rpy:804
     old "Mute All"
-    new ""
+    new "Заглушить всё"
 
     # game/screens.rpy:923
     old "The dialogue history is empty."
-    new ""
+    new "История диалогов пуста"
 
     # game/screens.rpy:991
     old "Keyboard"
-    new ""
+    new "Клавиатура"
 
     # game/screens.rpy:992
     old "Mouse"
-    new ""
+    new "Мышь"
 
     # game/screens.rpy:995
     old "Gamepad"
-    new ""
+    new "Геймпад"
 
     # game/screens.rpy:1008
     old "Enter"
-    new ""
+    new "Enter"
 
     # game/screens.rpy:1009
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Advances dialogue and activates the interface."
 
     # game/screens.rpy:1012
     old "Space"
-    new ""
+    new "Space"
 
     # game/screens.rpy:1013
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Advances dialogue without selecting choices."
 
     # game/screens.rpy:1016
     old "Arrow Keys"
-    new ""
+    new "Arrow Keys"
 
     # game/screens.rpy:1017
     old "Navigate the interface."
-    new ""
+    new "Navigate the interface."
 
     # game/screens.rpy:1020
     old "Escape"
-    new ""
+    new "Escape"
 
     # game/screens.rpy:1021
     old "Accesses the game menu."
-    new ""
+    new "Accesses the game menu."
 
     # game/screens.rpy:1024
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/screens.rpy:1025
     old "Skips dialogue while held down."
-    new ""
+    new "Skips dialogue while held down."
 
     # game/screens.rpy:1028
     old "Tab"
-    new ""
+    new "Tab"
 
     # game/screens.rpy:1029
     old "Toggles dialogue skipping."
-    new ""
+    new "Toggles dialogue skipping."
 
     # game/screens.rpy:1032
     old "Page Up"
-    new ""
+    new "Page Up"
 
     # game/screens.rpy:1033
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Rolls back to earlier dialogue."
 
     # game/screens.rpy:1036
-    old "Page Down"
-    new ""
+    old "Page DownPage Down"
+    new "Page DownPage Down"
 
     # game/screens.rpy:1037
     old "Rolls forward to later dialogue."
-    new ""
+    new "Rolls forward to later dialogue."
 
     # game/screens.rpy:1041
     old "Hides the user interface."
-    new ""
+    new "Hides the user interface."
 
     # game/screens.rpy:1045
     old "Takes a screenshot."
-    new ""
+    new "Takes a screenshot."
 
     # game/screens.rpy:1049
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
+    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/screens.rpy:1053
     old "Opens the accessibility menu."
-    new ""
+    new "Opens the accessibility menu."
 
     # game/screens.rpy:1059
     old "Left Click"
-    new ""
+    new "Left Click"
 
     # game/screens.rpy:1063
     old "Middle Click"
-    new ""
+    new "Middle Click"
 
     # game/screens.rpy:1067
     old "Right Click"
-    new ""
+    new "Right Click"
 
     # game/screens.rpy:1071
     old "Mouse Wheel Up\nClick Rollback Side"
-    new ""
+    new "Mouse Wheel Up\nClick Rollback Side"
 
     # game/screens.rpy:1075
     old "Mouse Wheel Down"
-    new ""
+    new "Mouse Wheel Down"
 
     # game/screens.rpy:1082
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "Right Trigger\nA/Bottom Button"
 
     # game/screens.rpy:1086
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "Left Trigger\nLeft Shoulder"
 
     # game/screens.rpy:1090
     old "Right Shoulder"
-    new ""
+    new "Right Shoulder"
 
     # game/screens.rpy:1095
     old "D-Pad, Sticks"
-    new ""
+    new "D-Pad, Sticks"
 
     # game/screens.rpy:1099
     old "Start, Guide"
-    new ""
+    new "Start, Guide"
 
     # game/screens.rpy:1103
     old "Y/Top Button"
-    new ""
+    new "Y/Top Button"
 
     # game/screens.rpy:1106
     old "Calibrate"
-    new ""
+    new "Калибровать"
 
     # game/screens.rpy:1171
     old "Yes"
-    new ""
+    new "Да"
 
     # game/screens.rpy:1172
     old "No"
-    new ""
+    new "Нет"
 
     # game/screens.rpy:1218
     old "Skipping"
-    new ""
+    new "Пролистывание"
 
     # game/screens.rpy:1441
     old "Menu"
-    new ""
+    new "Меню"
 

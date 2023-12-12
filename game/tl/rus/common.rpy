@@ -4,15 +4,15 @@ translate rus strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Само-озвучивание отключено"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Clipboard voicing enabled."
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Self-voicing enabled."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -276,15 +276,15 @@ translate rus strings:
 
     # renpy/common/00action_file.rpy:364
     old "Save slot %s: [text]"
-    new ""
+    new "Сохранить в слот %s: [text]"
 
     # renpy/common/00action_file.rpy:445
     old "Load slot %s: [text]"
-    new ""
+    new "Загрузить слот %s: [text]"
 
     # renpy/common/00action_file.rpy:498
     old "Delete slot [text]"
-    new ""
+    new "Удалить слот [text]"
 
     # renpy/common/00action_file.rpy:577
     old "File page auto"
@@ -308,23 +308,23 @@ translate rus strings:
 
     # renpy/common/00action_file.rpy:913
     old "Quick save complete."
-    new ""
+    new "Быстрое сохранение завершено"
 
     # renpy/common/00action_file.rpy:931
     old "Quick save."
-    new ""
+    new "Быстрое сохранение"
 
     # renpy/common/00action_file.rpy:950
     old "Quick load."
-    new ""
+    new "Быстрая запись"
 
     # renpy/common/00action_other.rpy:381
     old "Language [text]"
-    new ""
+    new "Язык [text]"
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new ""
+    new "Открыть [text] папку"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
@@ -424,39 +424,39 @@ translate rus strings:
 
     # renpy/common/00gui.rpy:446
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Вы уверены что хотите стереть этот файл?"
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Вы уверены что хотите перезаписать это сохранение?"
 
     # renpy/common/00gui.rpy:448
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "При загрузке будет потерян весь не сохраненный прогресс. Вы уверены?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to quit?"
-    new ""
+    new "Вы уверены что хотите выйти"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Выйти в главное меню?"
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Завершить перемотку?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Начать пролистывание?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Пролистать до следующего выбора?"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Пролистать до следующего выбора?"
 
     # renpy/common/00keymap.rpy:310
     old "Failed to save screenshot as %s."

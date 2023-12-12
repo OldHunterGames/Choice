@@ -4,5 +4,5 @@ translate rus strings:
 
     # game/options.rpy:15
     old "Choice"
-    new ""
+    new "Выбор"
 
