@@ -742,313 +742,313 @@ translate rus make_love_f12c52eb:
 translate rus make_love_0af9e75a:
 
     # "I make my voice low and seductive, reaching out to run a finger down the side of her cheek before leaning in for a slow kiss that left goosebumps on her skin."
-    ""
+    "Мурлыча низким и соблазнительным голосом я протянул руку, чтобы провести пальцем по ее щеке, а затем наклонился для медленного поцелуя, от которого по ее коже побежали мурашки."
 
 # game/script.rpy:343
 translate rus make_love_1476df14:
 
     # pc "You're so damn sexy."
-    pc ""
+    pc "Ты такая горячая."
 
 # game/script.rpy:344
 translate rus make_love_8283aa7d:
 
     # "I whispered against her lips as we parted once more."
-    ""
+    "Я шепчу, легонько прикасаясь к её губам своими."
 
 # game/script.rpy:345
 translate rus make_love_21d021cf:
 
     # "My hands trailed over every inch of exposed flesh we could find; tracing along the line of her collarbone, teasingly brushing across nipples through fabric, sliding lower still until cupping full hips possessively."
-    ""
+    "Мои руки скользят вдоль линию её обнаженных ключиц, дразняще провели по соскам через ткань и спустились ниже, пока не обхватили полные бедра."
 
 # game/script.rpy:346
 translate rus make_love_36ebecfe:
 
     # pc "You know, out there on the dance floor. you were moving so sexy. I couldn't stop watching."
-    pc ""
+    pc "Знаешь, там, на танцполе. Ты двигалась так сексуально. Я просто не мог оторваться."
 
 # game/script.rpy:347
 translate rus make_love_175acea6:
 
     # pc "The only thing missing was that you didn't take your clothes off in the process."
-    pc ""
+    pc "Единственное, чего не хватало, так это того, чтобы при ты при этом раздевалась."
 
 # game/script.rpy:348
 translate rus make_love_410aaa46:
 
     # k "I guess that would have been reckless in front of so many people, huh?"
-    k ""
+    k "Наверное, это было бы безрассудно на глазах у стольких людей, да?"
 
 # game/script.rpy:349
 translate rus make_love_3048827d:
 
     # "Kristen laughts."
-    ""
+    "Кристина смеётся."
 
 # game/script.rpy:350
 translate rus make_love_7355f567:
 
     # pc "Yeah… but we're alone now."
-    pc ""
+    pc "Да уж... но зато теперь, мы одни. И..."
 
 # game/script.rpy:351
 translate rus make_love_69f56d97:
 
     # "I sit down on a chair, making myself comfortable."
-    ""
+    "Я отошёл от неё и сел на стул, рапсоложившись поудобнее."
 
 # game/script.rpy:352
 translate rus make_love_925d5653:
 
     # pc "And I want to see you stripping, baby."
-    pc ""
+    pc "... я хочу увидеть стриптиз в твоём исполнении, детка."
 
 # game/script.rpy:353
 translate rus make_love_719ec771:
 
     # "Kristen blushed, feeling her heart race at my demand."
-    ""
+    "Кристен покраснела, почувствовав, как заколотилось ее сердце от моего требования."
 
 # game/script.rpy:354
 translate rus make_love_b591d5bb:
 
     # k "Look's like it's your lucky day, Anton!"
-    k ""
+    k "Знаешь, сегодня тебе везет как никогда, Антон!"
 
 # game/script.rpy:355
 translate rus make_love_f0de617d:
 
     # "She turned on the music and let it fill the room as she started to dance sensually - hips swaying in sync with the beat."
-    ""
+    "Она включила музыку и позволила ей заполнить комнату, начав чувственно танцевать - бедра покачивались в такт ритму."
 
 # game/script.rpy:356
 translate rus make_love_31994809:
 
     # "Slowly, she unzipped her red dress and slipped it off her shoulders; revealing more of her curves as it fell to floor in a seductive pool around heels."
-    ""
+    "Медленно расстегнув молнию на красном платье, она спустила его с плеч, обнажив все свои изгибы. Платье падает на пол напоминая красную лужицу вокруг каблуков."
 
 # game/script.rpy:361
 translate rus make_love_b00d6c26:
 
     # "Her black lacy underwear was all that remained now, barely hiding anything from view…"
-    ""
+    "Оставалось только черное кружевное белье, которое почти ничего не скрывало от глаз..."
 
 # game/script.rpy:362
 translate rus make_love_b0e8513f:
 
     # "With each step and dip, she teased me further."
-    ""
+    "С каждым шагом и погружением она все больше дразнила меня."
 
 # game/script.rpy:363
 translate rus make_love_2c526119:
 
     # "Her body glistening under the dim light as her breasts bounced enticingly with every move."
-    ""
+    "Ее тело блестело в тусклом свете, а груди соблазнительно подпрыгивали при каждом движении."
 
 # game/script.rpy:364
 translate rus make_love_2682e898:
 
     # "She faced me again, eyes locked on my - daring me to take what I wanted…"
-    ""
+    "Кристина снова стояла передо мной, не сводя с меня глаз - смеялась взять то, что я хотел..."
 
 # game/script.rpy:365
 translate rus make_love_ef0671a2:
 
     # k "Like what you see?"
-    k ""
+    k "Как тебе зрелище?"
 
 # game/script.rpy:366
 translate rus make_love_5a93e894:
 
     # "Her voice is low and sultry."
-    ""
+    "Её голос звучит низко и соблазительно."
 
 # game/script.rpy:367
 translate rus make_love_7dd1eda6:
 
     # pc "I want to see you all!"
-    pc ""
+    pc "Хочу увидеть всё!"
 
 # game/script.rpy:368
 translate rus make_love_1442d5d7:
 
     # "Without hesitation, Kristen reached behind her and unclasped the back of her bra."
-    ""
+    "Плавными движением, Кристина потянулась за спину и расстегнула застежку бюстгальтера."
 
 # game/script.rpy:369
 translate rus make_love_1e5c006c:
 
     # "It fell away, revealing her perfect breasts to my eager gaze."
-    ""
+    "Он упал, открыв моему жадному взгляду ее идеальную грудь."
 
 # game/script.rpy:370
 translate rus make_love_a3aeab54:
 
     # "She ran a finger over one nipple before cupping both in her hands and pushing us together for my viewing pleasure…"
-    ""
+    "Она провела пальцем по одному соску, затем взяла оба в руки и прижала нас друг к другу, чтобы я мог полюбоваться..."
 
 # game/script.rpy:371
 translate rus make_love_76f77c05:
 
     # "With a wicked grin, Kristen hooked her thumbs into the waistband of her black lacy underwear and slowly slid us down over her hips."
-    ""
+    "С лукавой улыбкой Кристен зацепила большими пальцами краешек своих кружевных трусиков и медленно спустила их вниз по бедрам."
 
 # game/script.rpy:372
 translate rus make_love_55631dbd:
 
     # "She stepped out of them, leaving herself completely naked before my hungry eyes…"
-    ""
+    "Сбросив их она остаётся совершенно обнаженной перед моими голодными глазами..."
 
 # game/script.rpy:383
 translate rus make_love_99fd43cd:
 
     # k "Are you satisfied now?"
-    k ""
+    k "Теперь ты доволен?"
 
 # game/script.rpy:384
 translate rus make_love_785b1ea8:
 
     # "Kristen is tilting her head to one side as she watched my awe in the sight of her bare body."
-    ""
+    "Кристен наклонила голову в одну сторону, наблюдая за моим благоговейным взглядом ласкающим её обнаженное тело."
 
 # game/script.rpy:385
 translate rus make_love_b9054224:
 
     # "Her heart raced with excitement at my reaction; each breath sending shivers down her spine…"
-    ""
+    "Моё сердце бешено колотилось от волнения, каждый вдох вызывал мурашки по позвоночнику..."
 
 # game/script.rpy:386
 translate rus make_love_be667702:
 
     # "I stood up, my cock hard as a rock in my pants."
-    ""
+    "Я встал, мой член в штанах был тверд как камень."
 
 # game/script.rpy:387
 translate rus make_love_97264e5b:
 
     # pc "Mmmm, you're perfect, baby."
-    pc ""
+    pc "О да, ты само совершентво."
 
 # game/script.rpy:388
 translate rus make_love_1d9a29a6:
 
     # "I stepped closer to her and ran a hand down her stomach, tracing the curve of her hip before circling around to cup her perfect breast."
-    ""
+    "Я подошел к ней ближе и провел рукой по ее животу вниз, прослеживая изгиб бедра, а затем поместил в ладонь ее идеальную грудь."
 
 # game/script.rpy:389
 translate rus make_love_29444ad8:
 
     # "My thumb brushed over her nipple, causing it to harden even more under my touch."
-    ""
+    "Мой большой палец провел по ее соску, заставив его еще больше затвердеть под моим прикосновением."
 
 # game/script.rpy:390
 translate rus make_love_7237ecba:
 
     # pc "Come here,"
-    pc ""
+    pc "Иди ко мне."
 
 # game/script.rpy:391
 translate rus make_love_a697858c:
 
     # "I growled softly against her ear before picking her up and carrying us both towards the coach."
-    ""
+    "Я тихонько зарычал ей в ухо, а затем подхватил ее на руки и к дивану."
 
 # game/script.rpy:422
 translate rus blowjob_00401aec:
 
     # "I took a step closer to her, my eyes burning with desire as I ran my hands up and down her naked body."
-    ""
+    "Я держал её в своих объятьях и мои глаза горели желанием, когда я провел руками по ее обнаженному телу."
 
 # game/script.rpy:423
 translate rus blowjob_0a8b99b2:
 
     # pc "You're even more beautiful without your clothes on."
-    pc ""
+    pc "Без одежды ты даже более прекрасна."
 
 # game/script.rpy:424
 translate rus blowjob_fd844183:
 
     # "Kristen felt her cheeks flush at my compliment, her nipples hardening under my touch."
-    ""
+    "Кристен почувствовала, как ее щеки раскраснелись от моего комплимента, а соски затвердели от моего прикосновения."
 
 # game/script.rpy:425
 translate rus blowjob_a29176d1:
 
     # "She looked up at me with shiny gray eyes, a small smile playing on her lips as she waited for my next move."
-    ""
+    "Она смотрела на меня блестящими серыми глазами, на ее губах играла соблазнительная улыбка в ожидании моего следующего шага."
 
 # game/script.rpy:426
 translate rus blowjob_15a8e5a0:
 
     # "I pulled away slightly, giving Kristen a sly grin. I turned back around slowly, giving Kristen time to admire my ass which flexed enticingly beneath those tight jeans"
-    ""
+    "Я слегка отстранился, одарив Кристину лукавой ухмылкой. Я медленно повернулся назад, давая той время полюбоваться своей задницей, под обтягивающими джинсами."
 
 # game/script.rpy:427
 translate rus blowjob_0dbd6fdd:
 
     # "With one swift movement, I removed them along with boxers revealing a thick cock already half-hard from anticipation alone"
-    ""
+    "Одним движением я снял их вместе с трусами, обнажив толстый член, уже полутвердый от одного только предвкушения."
 
 # game/script.rpy:428
 translate rus blowjob_5d0f3030:
 
     # "Kristen gulped audibly when she saw how big it was; bigger than most men she had been with previously..."
-    ""
+    "Кристен громко ахнула, увидев, какой он большой; больше, чем у большинства мужчин, с которыми она была раньше..."
 
 # game/script.rpy:429
 translate rus blowjob_14c6af87:
 
-    # "... but not intimidating enough to make her hesitate anymore because now all thoughts were focused solely on pleasuring me"
-    ""
+    # "... but not intimidating enough to make her hesitate anymore because now all thoughts were focused solely on pleasuring me."
+    "...но не настолько пугающий, чтобы заставить ее колебаться, потому что теперь все мысли были сосредоточены исключительно на том, чтобы доставить мне удовольствие."
 
 # game/script.rpy:430
 translate rus blowjob_4443692c:
 
     # "As I turned back around, Kristen couldn't help but let out a soft moan of desire."
-    ""
+    "Кристина не удержалась и издала тихий стон желания."
 
 # game/script.rpy:431
 translate rus blowjob_627cdebd:
 
     # "She had never seen such a formidable cock before - thick and veiny, pulsing with need for her mouth."
-    ""
+    "Она еще никогда не видела такого грозного члена - толстого, с прожилками, пульсирующего от желания наполнить собой её в ротик."
 
 # game/script.rpy:434
 translate rus blowjob_8928921b:
 
     # "Without another word, she dropped to her knees in front of me, taking my throbbing member into her hands and gently stroking it up and down the shaft as she leaned forward to take the head between her lips."
-    ""
+    "Не говоря ни слова, она опустилась передо мной на колени, взяла в руки мой пульсирующий член и, наклонившись вперед, обнимая головку теплыми губаими, нежно поглаживая стержень вверх и вниз."
 
 # game/script.rpy:435
 translate rus blowjob_3babdab3:
 
     # "Her tongue flicked over the sensitive tip, tasting the pre-cum that had already gathered there."
-    ""
+    "Она провела языком по чувствительному кончику, пробуя на вкус выступившую там капельку предварительной смазки."
 
 # game/script.rpy:436
 translate rus blowjob_85ddb219:
 
     # "She closed her eyes tightly, savoring the taste as she began to bob her head up and down on my shaft, sucking deeper each time."
-    ""
+    "Она закрыла глаза, концентрируясь на процессе, и стала двигать головой вверх-вниз по моему стволу, с каждым разом насаживаясь все глубже."
 
 # game/script.rpy:437
 translate rus blowjob_1aabb95f:
 
     # "Her slurping sounds echoed through the room while she worked her magic, using every ounce of skill she possessed to make this blowjob unforgettable."
-    ""
+    "Хлюпающие звуки эхом разносились по комнате, пока она творила свое волшебство, используя свое изрядное мастерство, чтобы сделать этот минет незабываемым."
 
 # game/script.rpy:438
 translate rus blowjob_822d3f8c:
 
     # pc "Oh, fuck... You're natural!"
-    pc ""
+    pc "Ох, блядь... а ты талантливая!"
 
 # game/script.rpy:439
 translate rus blowjob_5c38ab34:
 
     # "I groaned loudly, my hands finding their way into her hair as I gripped tightly."
-    ""
+    "Я громко застонал, запустив руки в ее волосы и крепко сжав их."
 
 # game/script.rpy:440
 translate rus blowjob_18d33364:
