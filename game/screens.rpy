@@ -361,7 +361,7 @@ screen main_menu():
     ## This ensures that any other menu screen is replaced.
     tag menu
 
-    add f"gui/{persistent.graphic_mode}/main_menu.png"
+    add Movie(play=f"gui/{persistent.graphic_mode}/main_menu.webm")
 
     ## This empty frame darkens the main menu.
     frame:
