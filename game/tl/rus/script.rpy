@@ -2104,1617 +2104,1617 @@ translate rus goodbye_kiss_0c052b1f:
 translate rus rape_32f0424c:
 
     # "As my gaze locked onto Kristen, a sinister grin spread across my face."
-    ""
+    "Когда мой взгляд остановился на Кристен, по моему лицу расплылась зловещая ухмылка."
 
 # game/script.rpy:670
 translate rus rape_2c8aa451:
 
     # "With a swift motion, I pulled out a gun from my pocket and pointed it at her."
-    ""
+    "Быстрым движением я достал из кармана пистолет и направил его на нее."
 
 # game/script.rpy:675
 translate rus rape_9947c4c7:
 
     # pc "I'm going to rape you (growled menacingly)."
-    pc ""
+    pc "Я тебя изнасилую!"
 
 # game/script.rpy:676
 translate rus rape_a2d0f27e:
 
     # pc "Strip."
-    pc ""
+    pc "Раздевайся."
 
 # game/script.rpy:677
 translate rus rape_0bbc5ba3:
 
     # "The command was delivered with an air of authority that left no room for negotiation."
-    ""
+    "Приказ был произнесен властно, не оставляя места для переговоров."
 
 # game/script.rpy:678
 translate rus rape_a55cddb3:
 
     # "Kristen's eyes widened in terror."
-    ""
+    "Глаза Кристины расширились от ужаса."
 
 # game/script.rpy:679
 translate rus rape_c4d76bcd:
 
     # "Kristen's heart races as her mind tries to process the situation."
-    ""
+    "Сердце Кристен бешено колотится, пока она пытается осмыслить ситуацию."
 
 # game/script.rpy:680
 translate rus rape_6b0602f9:
 
     # "She swallows hard, eyes wide with fear, and pleads with me in a shaky voice:"
-    ""
+    "Она тяжело сглатывает, глаза расширены от страха, и умоляет меня дрожащим голосом:"
 
 # game/script.rpy:681
 translate rus rape_219a7085:
 
     # k "P-please… don't hurt me. I'll do whatever you want."
-    k ""
+    k "П-пожалуйста... не делай мне больно. Я сделаю все, что ты захочешь."
 
 # game/script.rpy:682
 translate rus rape_4a295e5f:
 
     # "Tears well up in her eyes as she looks at the gun tremblingly, begging for mercy while trying not to make any sudden moves that might agitate me further."
-    ""
+    "Со слезами наворачивающимися на глаза, она в трепете смотрит на пистолет, умоляя о пощаде и стараясь не делать резких движений, которые могли бы меня спровоцировать."
 
 # game/script.rpy:683
 translate rus rape_5c11ac44:
 
     # "I chuckle darkly, a mix of amusement and arousal in my voice."
-    ""
+    "Я мрачно усмехаюсь, в моем голосе смешались веселье и возбуждение."
 
 # game/script.rpy:684
 translate rus rape_63a8f8ee:
 
     # pc "Good girl"
-    pc ""
+    pc "Хорошая девочка."
 
 # game/script.rpy:685
 translate rus rape_6e1b7326:
 
     # "I say it softly before sudden push on her towards the couch."
-    ""
+    "Я говорю это мягко, прежде чем внезапно подтолкнуть ее к дивану."
 
 # game/script.rpy:686
 translate rus rape_03753d78:
 
     # pc "Take off your clothes."
-    pc ""
+    pc "Снимай одежду."
 
 # game/script.rpy:687
 translate rus rape_c5a0304b:
 
     # "I commands again, this time with more force as I moves closer to her, the gun still trained on her trembling form."
-    ""
+    "Я снова командую, на этот раз с большей силой, приближаясь к ней, пистолет по-прежнему нацелен на ее дрожащую фигуру."
 
 # game/script.rpy:688
 translate rus rape_9f5d5db2:
 
     # "Kristen's hands shake as she slowly begins to unbutton her dress, tears streaming down her cheeks."
-    ""
+    "Руки Кристины дрожат, она медленно начинает расстегивать платье, по щекам текут слезы."
 
 # game/script.rpy:689
 translate rus rape_642c112d:
 
     # k "Please… just let me go…"
-    k ""
+    k "Пожалуйста... просто отпусти меня..."
 
 # game/script.rpy:690
 translate rus rape_85767fb2:
 
     # "Kristen whispers between sobs, hoping that might make me reconsider my actions. But the look in my eyes tells her it won't be enough."
-    ""
+    "Кристен шепчет между всхлипами, надеясь, что это заставит меня пересмотреть свои действия. Но взгляд моих глаз говорит ей, что этого будет недостаточно."
 
 # game/script.rpy:695
 translate rus rape_a9fbb80d:
 
     # "The dress falls to the floor, revealing a black lace bra and matching panties that hug her curves tightly."
-    ""
+    "Платье ниспадает до пола, обнажая черный кружевной бюстгальтер и подходящие трусики, которые плотно облегают ее изгибы."
 
 # game/script.rpy:696
 translate rus rape_2992de0e:
 
     # "She takes a deep breath before starting to undo the clasp of her bra, her trembling fingers fumbling with the tiny hooks."
-    ""
+    "Она делает глубокий вдох и начинает расстегивать застежку бюстгальтера, дрожащими пальцами нащупывая крошечные крючки."
 
 # game/script.rpy:697
 translate rus rape_39720fd8:
 
     # "I'm scared, Anton!"
-    ""
+    "Ты меня пугаешь, Антон!"
 
 # game/script.rpy:698
 translate rus rape_3d6af53a:
 
     # "She whimpers, looking up at me beseechingly."
-    ""
+    "Она хнычет, умоляюще глядя на меня."
 
 # game/script.rpy:699
 translate rus rape_09fb1418:
 
     # "I watch her every move with a predatory gaze, my eyes glinting with lust and excitement."
-    ""
+    "Я слежу за каждым ее движением хищным взглядом и мои глаза блестят от вожделения и возбуждения."
 
 # game/script.rpy:700
 translate rus rape_b89e1a31:
 
-    # pc "You're doing great,"
-    pc ""
+    # pc "You're doing great."
+    pc "Ты отлично справляешься. Раздевайся до конца."
 
 # game/script.rpy:701
 translate rus rape_24e22db6:
 
     # "I said it reassuringly, though there's an undercurrent of menace to my voice that sends shivers down Kristen's spine."
-    ""
+    "Я сказал это успокаивающе, хотя в моем голосе прозвучали нотки угрозы, от которых у Кристины по спине побежали мурашки."
 
 # game/script.rpy:702
 translate rus rape_dc261132:
 
     # pc "Now take of the rest, slut!"
-    pc ""
+    pc "Шевелись. Снимай всё, блядина!"
 
 # game/script.rpy:703
 translate rus rape_c33a3a64:
 
     # "Kristen's hands shake as she fumbles with the clasp of her bra, finally managing to undo it and letting it fall to the floor."
-    ""
+    "Руки Кристины дрожат, она возится с застежкой бюстгальтера, но в конце концов ей удается расстегнуть его и он падает на пол."
 
 # game/script.rpy:704
 translate rus rape_2d117e19:
 
     # "Her breasts are exposed now, heaving slightly in fear and anticipation."
-    ""
+    "Ее грудь обнажена и слегка вздымается от страха и предвкушения."
 
 # game/script.rpy:705
 translate rus rape_5ac0cf35:
 
     # "She looks up at I through tear-filled eyes, praying for mercy while also feeling a twisted thrill from this dangerous situation."
-    ""
+    "Она смотрит на меня полными слез глазами, моля о пощаде и одновременно испытывая извращенное возбуждение от этой опасной ситуации."
 
 # game/script.rpy:706
 translate rus rape_3a8ac811:
 
     # k "Please.. (she whispers softly) don't hurt me... much."
-    k ""
+    k "Пожалуйста (слабым  шопотом) не делай мне больно..."
 
 # game/script.rpy:707
 translate rus rape_04d462aa:
 
     # "With shaking hands, Kristen reaches for the lace of her panties and slowly slides us down her legs."
-    ""
+    "Дрожащими руками Кристина дотягивается до кружева трусиков и медленно спускает их вниз по ногам."
 
 # game/script.rpy:708
 translate rus rape_0534fa2c:
 
     # "She feels exposed and vulnerable in front of I, but also aroused by the danger of it all."
-    ""
+    "Она чувствует себя незащищенной и уязвимой в присутствии меня, но в то же время ее возбуждает опасность всего этого."
 
 # game/script.rpy:712
 translate rus rape_cb62e402:
 
     # "Her heart races as she steps out of her underwear, standing before me completely naked."
-    ""
+    "Сердце бешено колотится, когда она вылезает из нижнего белья и предстает передо мной совершенно обнаженной."
 
 # game/script.rpy:722
 translate rus rape_9f401b50:
 
     # k "Please let me go... I begging you, Anton."
-    k ""
+    k "Антон, я умоляю тебя... отпусти меня. Прошу тебя."
 
 # game/script.rpy:723
 translate rus rape_3fdc6f8b:
 
     # "She whispers again, looking up at me with pleading eyes."
-    ""
+    "Она снова шепчет, глядя на меня умоляющими глазами."
 
 # game/script.rpy:724
 translate rus rape_857ebd47:
 
     # k "Why are you doing this?"
-    k ""
+    k "Зачем ты делаешь это со мной?"
 
 # game/script.rpy:725
 translate rus rape_de36654a:
 
     # "I smirk, taking a step closer to her."
-    ""
+    "Я ухмыляюсь, делая шаг ближе к ней."
 
 # game/script.rpy:726
 translate rus rape_f322a124:
 
     # pc "Because you're mine now,"
-    pc ""
+    pc "Потому что теперь, ты будешь принадлежать мне."
 
 # game/script.rpy:727
 translate rus rape_9816abf9:
 
     # "I growl, my voice low and rough."
-    ""
+    "Я рычу это низкии и грубыи голосом."
 
 # game/script.rpy:728
 translate rus rape_33d17c44:
 
     # "I grab her hair firmly, pulling her head back as I force my tongue onto her mouth in a deep, possessive kiss."
-    ""
+    "Я крепко хватаю ее за волосы, оттягивая ее голову назад, и проникаю языком в ее рот в глубоком, собственническом поцелуе."
 
 # game/script.rpy:729
 translate rus rape_222b01b5:
 
     # "My free hand roams over her body, tracing patterns on her skin before reaching between her legs."
-    ""
+    "Моя свободная рука блуждает по ее телу, вырисовывая узоры на ее коже, а затем тянется между ее ног."
 
 # game/script.rpy:730
 translate rus rape_c4e35532:
 
     # pc "You'll scream my name when I'm done with you!"
-    pc ""
+    pc "Когда я закончу с тобой, ты будешь кричать моё имя!"
 
 # game/script.rpy:731
 translate rus rape_3b072828:
 
     # "I whisper passionately against her lips, my fingers teasing her already wet pussy."
-    ""
+    "Я страстно шепчу ей в ухо, пока мои пальцы дразнят ее уже мокрую киску."
 
 # game/script.rpy:732
 translate rus rape_3802c6ed:
 
     # "My kiss is forceful and dominating, my tongue pushing past her lips and invading her mouth with a roughness that leaves no room for resistance."
-    ""
+    "Мой поцелуй - властный и доминирующий, мой язык проникает за ее губы и вторгается в ее рот с грубостью, не оставляющей места для сопротивления."
 
 # game/script.rpy:733
 translate rus rape_b1a7a23e:
 
     # "She can taste the alcohol on my breath mixed with my own musky scent as I holds her head still while my other hand roams lower, finding her wet folds once again."
-    ""
+    "Она чувствует запах алкоголя на моем дыхании, смешанный с моим собственным мускусным ароматом, пока я удерживаю ее голову в неподвижном состоянии, а моя вторая рука опускается ниже, снова нащупывая ее влажные складочки."
 
 # game/script.rpy:734
 translate rus rape_2097a07e:
 
     # "Without warning, I thrust two fingers deep into her core, causing Kristen to gasp."
-    ""
+    "Без предупреждения я ввел два пальца глубоко в ее лоно, заставив Кристен задыхаться."
 
 # game/script.rpy:735
 translate rus rape_f490ca6a:
 
     # "I chuckles darkly before pulling my fingers out, only to push them back in harder this time."
-    ""
+    "Я мрачно усмехнулся и вытащил пальцы, только для того, чтобы снова вставить их посильнее."
 
 # game/script.rpy:736
 translate rus rape_b1860e16:
 
     # pc "You like that, don't you?"
-    pc ""
+    pc "Тебе ведь это нравится, шлюха. Признавайся!"
 
 # game/script.rpy:737
 translate rus rape_6bca40e0:
 
     # "I growl, watching as she squirms under my touch."
-    ""
+    "Я рычу, наблюдая за тем, как она извивается под моими прикосновениями."
 
 # game/script.rpy:738
 translate rus rape_215abb1a:
 
     # "Kristen whimpers, trying to push away from me but unable to escape my grasp."
-    ""
+    "Кристен хнычет, пытаясь оттолкнуться от меня, но не в силах вырваться из моей хватки."
 
 # game/script.rpy:739
 translate rus rape_31f7aa9b:
 
     # "My fingers feel like they're on fire inside her, stretching and filling her in a way that makes her gasp for air."
-    ""
+    "Мои пальцы словно горят внутри нее, растягивая и наполняя ее так, что она задыхается."
 
 # game/script.rpy:740
 translate rus rape_52966eac:
 
     # "She nods weakly, tears streaming down her face as she tries not to choke on my tongue invading her mouth."
-    ""
+    "Она слабо кивает, слезы текут по ее лицу, когда она пытается не задохнуться от моего языка, проникающего в ее рот."
 
 # game/script.rpy:741
 translate rus rape_7537e589:
 
     # k "Yes. (she manages between moans) Please stop… please don't hurt me anymore!"
-    k ""
+    k "Да. Только пожалуйста, остановись... пожалуйста, не делай мне больше больно!"
 
 # game/script.rpy:742
 translate rus rape_ab874195:
 
     # "I pull my fingers out of her, leaving her aching."
-    ""
+    "Я вытаскиваю из нее пальцы."
 
 # game/script.rpy:771
 translate rus throatfuck_5a64b90a:
 
     # "I push her down on the floor."
-    ""
+    "И прижимаю её к полу."
 
 # game/script.rpy:772
 translate rus throatfuck_26b0a594:
 
     # pc "Kneel, bitch! You'll beg for me."
-    pc ""
+    pc "На колени, сука! Умоляй чтобы я тебя трахнул!"
 
 # game/script.rpy:773
 translate rus throatfuck_ba835999:
 
     # "Kristen's heart races as she kneels before me, her eyes wide with fear and arousal."
-    ""
+    "Сердце Кристен бешено колотится, когда она опускается передо мной на колени, ее глаза расширены от страха и возбуждения."
 
 # game/script.rpy:774
 translate rus throatfuck_37f0cf4f:
 
     # pc "Now open your fucking moth wide!"
-    pc ""
+    pc "А теперь открой свою пасть и высунь язык!"
 
 # game/script.rpy:775
 translate rus throatfuck_6d1b634b:
 
     # "She opens her mouth obediently, feeling my hardness press against her lips."
-    ""
+    "Она послушно открывает рот, чувствуя, как головка моего члена, красная от напряжения, прижимается к ее губам."
 
 # game/script.rpy:776
 translate rus throatfuck_b3f7b1ae:
 
     # k "Please don't hurt me, Anton"
-    k ""
+    k "Антон, только не делай мне больно, умоляю."
 
 # game/script.rpy:777
 translate rus throatfuck_e4b2ac22:
 
     # "She whispers again, her voice trembling."
-    ""
+    "Она снова шепчет, ее голос дрожит."
 
 # game/script.rpy:778
 translate rus throatfuck_13d36efb:
 
     # k "I'll do anything you want."
-    k ""
+    k "Я сделаю как ты скажешь..."
 
 # game/script.rpy:780
 translate rus throatfuck_a1696a01:
 
     # "I smirk, pushing my cock into her mouth roughly, grabbing her hair and forcing my cock deeper down her throat."
-    ""
+    "Я ухмыляюсь, хватаю ее за волосы и проталкиваю свой член в ее рот."
 
 # game/script.rpy:781
 translate rus throatfuck_e7874c6c:
 
     # pc "That's right."
-    pc ""
+    pc "Вот так."
 
 # game/script.rpy:782
 translate rus throatfuck_77945665:
 
     # "Kristen gags on mmy rod, her eyes watering as she struggles to breathe around my thickness."
-    ""
+    "Кристен задыхается насаженная ртом на мой стержень, ее глаза слезятся, когда она пытается дышать."
 
 # game/script.rpy:783
 translate rus throatfuck_b81ab2e1:
 
     # pc "Take it all, whore!"
-    pc ""
+    pc "Целиком заглатывай, хуесоска ёбаная!"
 
 # game/script.rpy:784
 translate rus throatfuck_e194e2ac:
 
     # "I start to thrust in and out of her mouth with increasing speed."
-    ""
+    "Я начинаю входить и выходить из ее рта с нарастающей скоростью."
 
 # game/script.rpy:785
 translate rus throatfuck_174992c8:
 
     # "As my thrusts become more forceful, my hips slamming against her face."
-    ""
+    "Мои толчки становятся все более сильными, а мои бедра шлепают Кристину по лицу."
 
 # game/script.rpy:786
 translate rus throatfuck_1df98e83:
 
     # "Taking my full control, Kristen feels like she can't breathe around my cock filling every inch of her mouth and stretching it to its limit."
-    ""
+    "Подчинясь полностью моему контролю, Кристен чувствует, что не может дышать, когда мой член заполняет каждый сантиметр ее рта и растягивает его до предела."
 
 # game/script.rpy:787
 translate rus throatfuck_1354a0e3:
 
     # "She gags repeatedly on each thrust, tears streaming down her cheeks from the pain and humiliation."
-    ""
+    "При каждом толчке она раз за разом затыкает рот, слезы текут по ее щекам от боли и унижения."
 
 # game/script.rpy:788
 translate rus throatfuck_b2f7d90f:
 
     # "I growl like a wild animal, my hips moving faster as I pounds into her throat."
-    ""
+    "Я рычу как дикий зверь, мои бедра двигаются быстрее, когда я вдавливаю свой твёрдый хуй в ее напряженно пульсирующее горло."
 
 # game/script.rpy:789
 translate rus throatfuck_688c1f7c:
 
     # pc "That's it."
-    pc ""
+    pc "Да, вот так."
 
 # game/script.rpy:790
 translate rus throatfuck_6c987f57:
 
     # "I grabb her hair tighter to keep her in place. My other hand roams over her body, tracing patterns on her skin as I forcefully use her helolessly open throat."
-    ""
+    "Я крепко хватаю ее за волосы, чтобы удержать на месте. Другая рука блуждает по ее телу, вырисовывая узоры на коже, пока я с силой использую ее беспомощно открытое горло."
 
 # game/script.rpy:791
 translate rus throatfuck_2970ae02:
 
     # "Kristen whimpers with each thrust, feeling like she might choke on me at any moment."
-    ""
+    "Кристен хнычет с каждым толчком, чувствуя, что в любой момент может задохнуться."
 
 # game/script.rpy:792
 translate rus throatfuck_9a8eb79f:
 
     # "She tries to pull away but can't escape my grip or the intense pleasure that pulses through her body."
-    ""
+    "Она пытается вырваться, но не может освободиться ни от моей хватки, ни от сильного удовольствия, которое пульсирует в ее теле."
 
 # game/script.rpy:793
 translate rus throatfuck_a47c1d04:
 
     # "Kristen's eyes roll back in her head, a mix of pain and nausea coursing through her."
-    ""
+    "Кристен закатывает глаза, в них отражается боль и тошнота."
 
 # game/script.rpy:794
 translate rus throatfuck_e03d1d5c:
 
     # "She can feel my cock hitting the back of her throat with each thrust, forcing her to take me deeper than she ever thought possible."
-    ""
+    "Она чувствует, как мой член с каждым толчком ударяется о заднюю стенку ее глотки, заставляя ее принимать меня глубже, чем она когда-либо думала, что это возможно."
 
 # game/script.rpy:795
 translate rus throatfuck_7fc06c38:
 
     # "Her body shudders as she comes undone around me, moaning loudly despite the cock in her mouth."
-    ""
+    "Ее тело содрогается, когда она расстягивается вокруг меня, и она громко стонет, несмотря на полный рот."
 
 # game/script.rpy:796
 translate rus throatfuck_12d0bda2:
 
     # k "Please (she manages between gasps for air) stop… I can't take it anymore!"
-    k ""
+    k "Пожалуйста, остановись... (удаётся ей вымолвить, пока она пытается вдохнуть) Я больше не могу!"
 
 # game/script.rpy:797
 translate rus throatfuck_c47611b5:
 
     # "I chuckle darkly, pulling my dick out of her mouth with a pop."
-    ""
+    "Я мрачно усмехаюсь, с шумом вытаскивая член из ее рта."
 
 # game/script.rpy:798
 translate rus throatfuck_2e343fc5:
 
     # "I smirk down at her, my eyes glinting with satisfaction as I watches her gag and cough."
-    ""
+    "Я ухмыляюсь, глядя на нее, мои глаза блестят от удовлетворения, когда я наблюдаю за ее рвотными позывами и кашлем."
 
 # game/script.rpy:806
 translate rus forced_sex_fe6e5ebe:
 
     # pc "On your back, whore!"
-    pc ""
+    pc "На спину, шлюха!"
 
 # game/script.rpy:807
 translate rus forced_sex_61775f54:
 
     # "I'm taking charge, shoving her down onto the couch."
-    ""
+    "Я беру на себя ответственность, пихаю ее на диван."
 
 # game/script.rpy:808
 translate rus forced_sex_2ebb9376:
 
     # "Girl complied, her body trembling with fear as I towered over her."
-    ""
+    "Девушка подчинилась, ее тело дрожало от страха, когда я возвышался над ней."
 
 # game/script.rpy:809
 translate rus forced_sex_88fd6d75:
 
     # "I positioned myself between her legs, admiring the sight of her spread out before me - vulnerable and exposed."
-    ""
+    "Я расположился между ее ног, любуясь тем, как она раскинулась передо мной - уязвимая и обнаженная."
 
 # game/script.rpy:810
 translate rus forced_sex_d3e6a39e:
 
     # "Despite her fear and humiliation, her soft pink labia glisten with traitorous moisture."
-    ""
+    "Несмотря на страх и унижение, ее нежно-розовые половые губы предательски блестят."
 
 # game/script.rpy:811
 translate rus forced_sex_78e2f8d9:
 
     # pc "You're so fucking sexy when you're scared."
-    pc ""
+    pc "Ты чертовски сексуальна, когда напугана."
 
 # game/script.rpy:812
 translate rus forced_sex_192ada7f:
 
     # "I smiled, running a finger along her inner thigh. Kristen flinched at my touch but didn't dare to resist."
-    ""
+    "Я улыбнулся, проведя пальцем по внутренней стороне ее бедра. Кристен вздрогнула от моего прикосновения, но не осмелилась сопротивляться."
 
 # game/script.rpy:813
 translate rus forced_sex_38fd1460:
 
     # "Kristen's heart pounded in her chest as she lay there, helpless and exposed."
-    ""
+    "Сердце Кристины колотилось в груди, пока она лежала передо мной, беспомощная и обнаженная."
 
 # game/script.rpy:814
 translate rus forced_sex_a7aa66e9:
 
     # "She could feel the heat of my body above her, my breath hot on her neck as I traced a finger along her inner thigh."
-    ""
+    "Она чувствовала жар моего тела над собой, мое дыхание обжигало ее шею, когда я проводил пальцем по внутренней стороне ее бедра."
 
 # game/script.rpy:815
 translate rus forced_sex_e1b4be63:
 
     # "Despite her fear, she couldn't help but feel a twinge of arousal at being so completely under my control."
-    ""
+    "Несмотря на свой страх, она не могла не почувствовать прилив возбуждения от того, что находится под моим полным контролем."
 
 # game/script.rpy:816
 translate rus forced_sex_b485e6b4:
 
     # "Please… (she whispered, her voice barely audible) Don't do this to me."
-    ""
+    "Пожалуйста... (она прошептала, едва слышно) Не делай этого со мной."
 
 # game/script.rpy:820
 translate rus forced_sex_096f0029:
 
     # "Ignoring her plea, I rubbed my cock against her entrance, teasing her with the tip before thrusting inside without warning."
-    ""
+    "Не обращая внимания на ее мольбы, я потерся членом о ее вход, дразня ее кончиком, прежде чем без предупреждения ворваться внутрь."
 
 # game/script.rpy:821
 translate rus forced_sex_6c6ab909:
 
     # "Kristen cried out in pain as I filled her completely, her body unprepared for my size."
-    ""
+    "Кристен вскрикнула от боли, когда я полностью заполнил ее, ее тело не было готово к моим размерам."
 
 # game/script.rpy:822
 translate rus forced_sex_64e28220:
 
     # "I began to pound into her relentlessly, each stroke driving deeper and harder than the last."
-    ""
+    "Я начал неустанно вбиваться в нее, каждый удар был глубже и сильнее предыдущего."
 
 # game/script.rpy:823
 translate rus forced_sex_c2a4cc66:
 
     # "Her cries turned to moans as her body betrayed her, responding to the rough treatment despite her terror."
-    ""
+    "Ее крики перешли в стоны, когда тело предало ее, отвечая возбуждением на грубое обращение, невзирая на искренний ужас."
 
 # game/script.rpy:824
 translate rus forced_sex_b03e1faf:
 
     # pc "You like it, don't you?"
-    pc ""
+    pc "Что, нравится?"
 
 # game/script.rpy:825
 translate rus forced_sex_ac83b506:
 
     # "Kristen's body arched off the bed as I pounded into her, my words sending a shiver down her spine."
-    ""
+    "Тело Кристины выгнулось дугой, когда я вошел в нее, а мои слова вызвали дрожь по ее позвоночнику."
 
 # game/script.rpy:826
 translate rus forced_sex_66363d2b:
 
     # "She couldn't deny the pleasure that was building within her, but she refused to give me the satisfaction of hearing her admit it."
-    ""
+    "Она не могла отрицать удовольствие, которое росло в ней, но отказывалась доставить мне удовольствие услышать ее признание."
 
 # game/script.rpy:827
 translate rus forced_sex_fc0b3a91:
 
     # k "No… stop!"
-    k ""
+    k "Нет... прекрати!"
 
 # game/script.rpy:828
 translate rus forced_sex_7c5f900f:
 
     # "She gasped between moans, trying desperately to maintain some semblance of control. But with each thrust, her resolve weakened further."
-    ""
+    "Она задыхалась между стонами, отчаянно пытаясь сохранить хоть какое-то подобие контроля. Но с каждым толчком ее решимость все больше ослабевала."
 
 # game/script.rpy:829
 translate rus forced_sex_c4451760:
 
     # "I laughed, enjoying her struggle against the pleasure I was giving her."
-    ""
+    "Я рассмеялся, наслаждаясь ее борьбой с удовольствием, которое я ей доставлял."
 
 # game/script.rpy:830
 translate rus forced_sex_b5fcc37e:
 
     # "I grabbed her hips, holding her in place as I continued to drive into her with brutal force."
-    ""
+    "Я схватил ее за бедра, удерживая на месте, пока продолжал входить в нее с неистовой силой."
 
 # game/script.rpy:831
 translate rus forced_sex_167a28db:
 
     # pc "You're so tight! I bet you've never been fucked like this before."
-    pc ""
+    pc "Ты такая тугая! Держу пари, тебя еще никогда так не ебали."
 
 # game/script.rpy:832
 translate rus forced_sex_382e55db:
 
     # "Kristen's eyes widened as she felt my grip on her hips, my words sending a jolt of humiliation through her."
-    ""
+    "Глаза Кристен расширились, когда она почувствовала мою хватку на своих бедрах, а мои слова вызвали у нее приступ унижения."
 
 # game/script.rpy:833
 translate rus forced_sex_04333576:
 
     # "She knew I was right - she had never experienced anything like this before, and the realization only heightened her humiliating arousal."
-    ""
+    "Она знала, что я прав - она никогда не испытывала ничего подобного, и осознание этого только усиливало ее унизительное возбуждение."
 
 # game/script.rpy:834
 translate rus forced_sex_bf1c738b:
 
     # k "N-no!"
-    k ""
+    k "Н-нет!"
 
 # game/script.rpy:835
 translate rus forced_sex_2aefb63b:
 
     # "Kristen stammered, her voice barely audible over the sound of our bodies slapping together."
-    ""
+    "Кристен заикалась, ее голос был едва слышен из-за звука наших тел, шлепающихся друг о друга."
 
 # game/script.rpy:836
 translate rus forced_sex_cc7388a1:
 
     # k "Please… Anton! Let me go… ah..."
-    k ""
+    k "Пожалуйста, Антон! Отпусти меня... ай!"
 
 # game/script.rpy:837
 translate rus forced_sex_e6f7016f:
 
     # "My eyes locked on Kristen's face as I continued to pound into her. I could see the conflict within her - the desire to resist me warring with the pleasure I was giving her."
-    ""
+    "Мои глаза были устремлены на лицо Кристен, пока я продолжал входить в нее. Я видел, как внутри нее разгорается конфликт: желание сопротивляться мне боролось с удовольствием, которое я ей доставлял."
 
 # game/script.rpy:838
 translate rus forced_sex_515ecc00:
 
     # pc "You enjoying to be forced like this, admit it."
-    pc ""
+    pc "Вам шлюхам всегда нравится, когда вас заставляют, признай это."
 
 # game/script.rpy:839
 translate rus forced_sex_cd385997:
 
     # "Kristen's breath came in ragged gasps as she felt herself teetering on the edge of orgasm."
-    ""
+    "Кристен задыхалась, чувствуя, что находится на грани оргазма."
 
 # game/script.rpy:840
 translate rus forced_sex_b8cc5709:
 
     # k "I dont!"
-    k ""
+    k "Иди к черту!"
 
 # game/script.rpy:841
 translate rus forced_sex_3cfdcd47:
 
-    # "Poor girl gasped, her voice barely audible over the sound of our bodies slapping together"
-    ""
+    # "Poor girl gasped, her voice barely audible over the sound of our bodies slapping together."
+    "Бедная девочка задыхалась, ее голос был едва слышен за звуком наших тел, шлепающихся друг о друга."
 
 # game/script.rpy:842
 translate rus forced_sex_fa3cdf35:
 
     # k "I don't want this… ah..."
-    k ""
+    k "Мне это отвра... ай! ...отвратительно!"
 
 # game/script.rpy:843
 translate rus forced_sex_9b5f1b72:
 
     # "I laughed, my grip on her hips tightening as I continued to fuck her relentlessly."
-    ""
+    "Я рассмеялся, крепче сжимая ее бедра, продолжая неустанно трахать ее."
 
 # game/script.rpy:844
 translate rus forced_sex_af9fbb1b:
 
     # "I could feel her body responding to me despite her protests, and it only fueled my desire further."
-    ""
+    "Я чувствовал, как ее тело отвечает мне, несмотря на ее протесты, и это только разжигало мое желание еще больше."
 
 # game/script.rpy:845
 translate rus forced_sex_6e527a08:
 
     # pc "You're a liar! But your body tells the truth."
-    pc ""
+    pc "Мелкая, лживая блядь! Хотя бы твоё тело говорит правду."
 
 # game/script.rpy:846
 translate rus forced_sex_2916467b:
 
     # pc "And the truth is, you're a filthy, humiliation-enjoying slut!"
-    pc ""
+    pc "А правда в том, что ты грязная, наслаждающаяся унижениями мокрощель!"
 
 # game/script.rpy:847
 translate rus forced_sex_96b18f4c:
 
     # "Kristen's eyes squeezed shut as she felt the first waves of pleasure wash over her following my dirty words."
-    ""
+    "Кристен зажмурила глаза, почувствовав первые волны удовольствия, нахлынувшие на нее после моих грязных слов."
 
 # game/script.rpy:848
 translate rus forced_sex_82b2a360:
 
     # "She couldn't deny it any longer - her body was responding to my brutal thrusts, betraying her every attempt to resist me."
-    ""
+    "Она не могла больше отрицать этого - ее тело отзывалось на мои жестокие толчки, предавая все ее попытки сопротивляться мне."
 
 # game/script.rpy:849
 translate rus forced_sex_ecc7e8f5:
 
     # k "No… please… I can't… I can't stop it…"
-    k ""
+    k "Нет... пожалуйста... я не могу... я не выдержу..."
 
 # game/script.rpy:850
 translate rus forced_sex_76da6ce6:
 
     # "My grin widened as I felt Kristen's body surrender to the pleasure, her words music to my ears. I pounded into her even harder, driving her closer and closer to the edge."
-    ""
+    "Моя ухмылка расширилась, когда я почувствовал, как тело Кристен отдается наслаждению, а ее слова стали музыкой для моих ушей. Я вбивался в нее еще сильнее, подталкивая ее все ближе и ближе к краю."
 
 # game/script.rpy:851
 translate rus forced_sex_d29ccdd8:
 
     # pc "That's it! Give in to it, whore!"
-    pc ""
+    pc "Вот так! Покажи мне свою блядскую сущность, пизда!"
 
 # game/script.rpy:852
 translate rus forced_sex_c1e7c1c2:
 
     # "Kristen's body arched off the bed as she felt the first waves of orgasm crash over her."
-    ""
+    "Тело Кристен выгнулось дугой, когда она почувствовала, как на нее накатывают первые волны оргазма."
 
 # game/script.rpy:853
 translate rus forced_sex_73025e84:
 
     # "She cried out, her voice mingling with my grunts as I continued to drive into her relentlessly."
-    ""
+    "Она вскрикнула, ее голос смешался с моим утробным рычанием, когда я продолжал неустанно входить в нее."
 
 # game/script.rpy:854
 translate rus forced_sex_d13839ad:
 
     # k "Aaaahhh... fuuuuck!"
-    k ""
+    k "Аааааххх... бляяяяядь!"
 
 # game/script.rpy:855
 translate rus forced_sex_34ef59ef:
 
     # "I laughed, enjoying her helplessness as I continued to fuck her through her orgasm. I could feel my own release building, but I knew I could last much longer in needed."
-    ""
+    "Я хохотал, наслаждаясь ее беспомощностью, пока продолжал трахать ее оргазмирующую киску. Я чувствовал, как нарастает моя собственная разрядка, но знал, что смогу продержаться гораздо дольше."
 
 # game/script.rpy:856
 translate rus forced_sex_3bec0601:
 
     # pc "You're mine, say it."
-    pc ""
+    pc "Ты принадлежишь мне. Скажи это!"
 
 # game/script.rpy:857
 translate rus forced_sex_0a56aac2:
 
     # "Kristen's eyes squeezed shut as she felt another wave of pleasure wash over her."
-    ""
+    "Кристина зажмурила глаза, чувствуя, как ее захлестывает новая волна наслаждения."
 
 # game/script.rpy:858
 translate rus forced_sex_a9a95548:
 
     # "She couldn't deny it any longer - I had complete control over her body, and there was nothing she could do to stop me."
-    ""
+    "Она не могла больше отрицать этого - я полностью контролировал ее тело, и она ничего не могла сделать, чтобы остановить меня."
 
 # game/script.rpy:859
 translate rus forced_sex_830aa00d:
 
     # "I-I'm yours..."
-    ""
+    "Я... я твоя..."
 
 # game/script.rpy:860
 translate rus forced_sex_19855a64:
 
     # "She gasped, the admission ripped from her throat as her orgasm subsided."
-    ""
+    "Она задыхалась, признание вырвалось из ее горла, когда оргазм утих."
 
 # game/script.rpy:861
 translate rus forced_sex_195815f8:
 
     # k "Enough… spare me... please…"
-    k ""
+    k "Хватит... пощади меня... пожалуйста..."
 
 # game/script.rpy:868
 translate rus anal_rape_bdfc9382:
 
     # pc "Now get on all fours and spread your ass for me, bitch!"
-    pc ""
+    pc "А теперь встань на четвереньки и раздвинь мне задницу, сучка!"
 
 # game/script.rpy:869
 translate rus anal_rape_0ca7495b:
 
     # "Kristen's heart races as she complies, her body shaking with fear and arousal. She gets on all fours, spreading her legs wide to expose herself fully to me."
-    ""
+    "Сердце Кристен бешено колотится, когда она подчиняется, ее тело дрожит от страха и возбуждения. Она встает на четвереньки, широко раздвигая ноги, чтобы полностью обнажить себя передо мной."
 
 # game/script.rpy:870
 translate rus anal_rape_0aeabd8b:
 
     # k "Please, not in the ass."
-    k ""
+    k "Пожалуйста, только не попку."
 
 # game/script.rpy:871
 translate rus anal_rape_8032643b:
 
     # "She whimpers again, looking back at me through tear-filled eyes."
-    ""
+    "Она снова хнычет, глядя на меня глазами, полными слез."
 
 # game/script.rpy:872
 translate rus anal_rape_40532cd5:
 
     # k "I've never done that. I'm afraid… I'll do anything you want, just don't touch my tushy."
-    k ""
+    k "Я никогда этого не делала. Я боюсь... Я сделаю все, что ты захочешь, только в попу не еби."
 
 # game/script.rpy:873
 translate rus anal_rape_b357000b:
 
     # "I chuckle darkly, my eyes glinting with lust and amusement."
-    ""
+    "Я мрачно усмехаюсь, в моих глазах сверкают похоть и веселье."
 
 # game/script.rpy:874
 translate rus anal_rape_70bd18e5:
 
     # pc "You'll do anything I want? Even if it means taking my cock in your ass?"
-    pc ""
+    pc "Ты сделаешь все, что я захочу? Даже если это означает принять мой член в свою задницу?"
 
 # game/script.rpy:875
 translate rus anal_rape_bc50e41a:
 
     # "I step closer to her, running a finger along the crack of her ass before pressing against her entrance."
-    ""
+    "Я подхожу к ней ближе, провожу пальцем по трещине ее попки, а затем прижимаюсь к ее входу."
 
 # game/script.rpy:876
 translate rus anal_rape_286329b5:
 
     # "Kristen flinches but doesn't move away, too scared to resist any further."
-    ""
+    "Кристен вздрагивает, но не отстраняется, слишком напуганная, чтобы сопротивляться дальше."
 
 # game/script.rpy:877
 translate rus anal_rape_8fdb7df9:
 
     # pc "Beg for it!"
-    pc ""
+    pc "Умоляй об этом, тварь!"
 
 # game/script.rpy:878
 translate rus anal_rape_705287ed:
 
     # "I slapped her ass hard, to reinforce my command."
-    ""
+    "Я сильно шлепнул ее по заднице, чтобы подкрепить свой приказ."
 
 # game/script.rpy:879
 translate rus anal_rape_86ce0500:
 
     # "Kristen whimpers, feeling my dickhead against her tight hole."
-    ""
+    "Кристина хнычет, чувствуя, как мой член упирается в ее тугую дырочку."
 
 # game/script.rpy:880
 translate rus anal_rape_e0536800:
 
     # k "Please… don't do this to me..."
-    k ""
+    k "Пожалуйста, Антон... не поступай со мной так!"
 
 # game/script.rpy:881
 translate rus anal_rape_42f94103:
 
     # "She begs, her voice shaking with fear and humiliation."
-    ""
+    "Она умоляет, ее голос дрожит от страха и унижения."
 
 # game/script.rpy:882
 translate rus anal_rape_74abe449:
 
     # k "I'll do anything else… just not that."
-    k ""
+    k "Я сделаю все, что угодно... только не это."
 
 # game/script.rpy:883
 translate rus anal_rape_f6e7a2b7:
 
     # "I laugh, a cruel sound that sends shivers down Kristen's spine."
-    ""
+    "Я смеюсь - жестокий звук, от которого по позвоночнику Кристины пробегают мурашки."
 
 # game/script.rpy:884
 translate rus anal_rape_c75261fc:
 
     # pc "You think you have a choice?"
-    pc ""
+    pc "Думаешь у тебя есть право кочевряжиться?"
 
 # game/script.rpy:888
 translate rus anal_rape_5b7aa832:
 
     # "I positions myself behind her, lining up my cock with her ass. With one swift motion, I thrust forward, burying it deep inside her unprepared hole."
-    ""
+    "Я встал позади нее, прижав свой член к ее анусу. Одним быстрым движением я подался вперед, глубоко погружая его в сжавшуюся от страха, девственную дырочку."
 
 # game/script.rpy:889
 translate rus anal_rape_61f20ebe:
 
     # "Kristen screams in pain as my hard rod rams in her butthole, stretching it beyond anything she's ever experienced before."
-    ""
+    "Кристина кричит от боли, когда мой твердый стержень впивается в ее попку, растягивая ее так, как она еще никогда не испытывала."
 
 # game/script.rpy:890
 translate rus anal_rape_0ca08e93:
 
     # pc "Now you're mine!"
-    pc ""
+    pc "Теперь твоя жопа принадлежит мне!"
 
 # game/script.rpy:891
 translate rus anal_rape_3ecab73c:
 
     # "I'm pulling out slowly before slamming back in again."
-    ""
+    "Я медленно вытаскиваю свой хер, а затем снова двигяю его вперёд."
 
 # game/script.rpy:892
 translate rus anal_rape_3902ca6a:
 
     # "Kristen screams in pain as I sodomize her roughtly, feeling like she's being torn apart."
-    ""
+    "Кристен кричит от боли, когда я грубо содомирую ее, чувствуя, будто её разрывают на части."
 
 # game/script.rpy:893
 translate rus anal_rape_40219a2f:
 
     # "Tears stream down her face as I continue to pound into her ass relentlessly, each stroke sending shockwaves of agony through her body."
-    ""
+    "Слезы текут по ее лицу, а я продолжаю без устали долбить ее попку, каждый удар посылает по ее телу волны агонии."
 
 # game/script.rpy:894
 translate rus anal_rape_7d3f46a9:
 
     # k "Aaaaa! Please… stop… It hurts so much…"
-    k ""
+    k "Ааааа! Пожалуйста... остановись... Это так больно..."
 
 # game/script.rpy:895
 translate rus anal_rape_7994323a:
 
     # "I grunt, my breath coming in ragged gasps as I continues to pound into her."
-    ""
+    "Я хриплю, мое дыхание сбивается на рваные вдохи, когда я продолжаю в нее входить."
 
 # game/script.rpy:896
 translate rus anal_rape_e2f7202b:
 
     # pc "You're so fucking tight... The fist time is allways the best!"
-    pc ""
+    pc "Ты такая чертовски тугая. Первый раз всегда самый вкусный... для меня!"
 
 # game/script.rpy:897
 translate rus anal_rape_1a5cf2a1:
 
     # "My fingers digging into her hips as I forcefully impale her on my meaty stake."
-    ""
+    "Мои пальцы впиваются в ее бедра, когда я с силой насаживаю ее на свой мясистый кол."
 
 # game/script.rpy:898
 translate rus anal_rape_cd141f12:
 
-    # pc "You're gonna take all ofform me, bitch!"
-    pc ""
+    # pc "You're gonna take all form me, bitch!"
+    pc "Ты получишь у меня, сучка!"
 
 # game/script.rpy:899
 translate rus anal_rape_3a016dd9:
 
     # "Kristen's eyes roll back in her head as I continues to thrust into her, the pain becoming too much to bear."
-    ""
+    "Кристина закатывает глаза, а я продолжаю входить в нее, делая боль в её осквернённой заднице невыносимой."
 
 # game/script.rpy:900
 translate rus anal_rape_6b46fb1f:
 
     # "She feels like she's going to pass out from the intensity of it all, but I show no signs of stopping."
-    ""
+    "Ей кажется, что она сейчас потеряет сознание от интенсивности происходящего, но я не подаю признаков остановки."
 
 # game/script.rpy:901
 translate rus anal_rape_ef3e08ef:
 
     # k "Please… I can't…"
-    k ""
+    k "Пожалуйста... Я не могу..."
 
 # game/script.rpy:902
 translate rus anal_rape_ed44f685:
 
     # "She whimpers weakly, her body shaking with each brutal stroke."
-    ""
+    "Она слабо хнычет, ее тело содрогается от каждого жестокого удара."
 
 # game/script.rpy:903
 translate rus anal_rape_cd041cf0:
 
     # "My pace quickens, my breath coming in ragged gasps as I feels himself getting closer to the edge."
-    ""
+    "Мой темп ускоряется, дыхание становится рваным, когда я чувствую, что приближюсь к оргазму."
 
 # game/script.rpy:911
 translate rus cum_throat_49cc6e96:
 
     # pc "You'll take everything I give you!"
-    pc ""
+    pc "Ты примешь всё что я тебе дам, шлюха!"
 
 # game/script.rpy:912
 translate rus cum_throat_c08e4e4c:
 
     # pc "I'm going to fuck your little slutty mouth as hard as I please."
-    pc ""
+    pc "Я выебу твой мекий блядский рот так сильно, как поделаю."
 
 # game/script.rpy:913
 translate rus cum_throat_30edbfb4:
 
     # pc "I make you swallow my load and thank me for it, you bitch!"
-    pc ""
+    pc "Я заставлю тебя проглотить всё до капли и поблагодарить меня за это, сучка!"
 
 # game/script.rpy:914
 translate rus cum_throat_06a04366:
 
     # "My cock is hard and throbbing, ready to be pushed inside her mouth again."
-    ""
+    "Мой хер твердый и пульсирующий, полностю готов к тому, чтобы снова оказаться у нее во рту."
 
 # game/script.rpy:915
 translate rus cum_throat_1c84ec92:
 
     # "I grabs her hair roughly, pulling her head back before pushing my thick shaft between her lips once more."
-    ""
+    "Я грубо схватил ее за волосы и откинул голову назад, а затем снова ввел свой толстый вал между ее дрожащими губами."
 
 # game/script.rpy:916
 translate rus cum_throat_80fa02c9:
 
     # "She gags on me immediately as I begins to thrust in and out of her throat with long strokes that make her eyes water."
-    ""
+    "Она сразу же задыхается, когда я начинаю входить и выходить из ее горла длинными толчками, от которых у нее на глаза наворачиваются слёзы."
 
 # game/script.rpy:917
 translate rus cum_throat_e24c9830:
 
     # "Kristen whimpers, feeling like she might vomit as I takes her again. She tries to pull away but my grip is too strong."
-    ""
+    "Кристина хнычет, чувствуя, что ее может вырвать, когда я снова беру ее. Она пытается вырваться, но моя хватка слишком сильна."
 
 # game/script.rpy:918
 translate rus cum_throat_aad5066c:
 
     # "Her eyes water and her throat burns with each thrust of my cock, making it difficult for her to breathe or swallow properly."
-    ""
+    "Ее глаза слезятся, а горло горит от каждого толчка моего члена, из-за чего ей трудно дышать и глотать."
 
 # game/script.rpy:919
 translate rus cum_throat_30569f7d:
 
     # k "Please (she begs desperately) I can't take this…"
-    k ""
+    k "Пожалуйста (отчаянно умоляет) я не могу этого вынести..."
 
 # game/script.rpy:920
 translate rus cum_throat_1ff433a4:
 
     # "My hips moving faster as I force my cock deeper into her throat."
-    ""
+    "Мои бедра двигаются быстрее, когда я проталкиваю свой член все глубже в ее горло."
 
 # game/script.rpy:921
 translate rus cum_throat_0bb47415:
 
-    # pc "You'll take it all,"
-    pc ""
+    # pc "You'll take it all."
+    pc "Ты примешь его весь."
 
 # game/script.rpy:922
 translate rus cum_throat_1ccdbd07:
 
     # "I grabs her hair tighter, enjoying the way she squirms under my touch, pulling her head back even further until she can feel me hitting the back of her throat with each thrust."
-    ""
+    "Я крепко хватаю ее за волосы, наслаждаясь тем, как она извивается под моими прикосновениями, и оттягиваю ее голову назад еще больше, пока она не чувствует, как я всаживаюсь в ее горло с каждым толчком."
 
 # game/script.rpy:923
 translate rus cum_throat_fdd68a31:
 
     # pc "Take it like a good little slut!"
-    pc ""
+    pc "Покажи мне какая ты послушная маленькая хуесоска!"
 
 # game/script.rpy:924
 translate rus cum_throat_2716e648:
 
     # "Kristen gags and chokes on me, her body shaking with each thrust. She feels like she's going to pass out from lack of oxygen but can't escape my tight grip."
-    ""
+    "Кристен задыхается и захлебывается, ее тело сотрясается от каждого толчка. Она чувствует, что сейчас потеряет сознание от недостатка кислорода, но не может вырваться из моей крепкой хватки."
 
 # game/script.rpy:925
 translate rus cum_throat_30f6bfb8:
 
     # "Tears stream down her face as she tries to beg for mercy once more:"
-    ""
+    "Слезы текут по ее лицу, когда она снова пытается умолять о пощаде:"
 
 # game/script.rpy:926
 translate rus cum_throat_84af7111:
 
     # k "Please… I can't breathe…"
-    k ""
+    k "Пожалуйста... Я задыхаюсь..."
 
 # game/script.rpy:927
 translate rus cum_throat_13d2716b:
 
     # pc "Then stop whining and make me come."
-    pc ""
+    pc "Тогда перестань ныть и заставь меня кончить."
 
 # game/script.rpy:928
 translate rus cum_throat_c7124055:
 
     # "I roared my words mercilessly as Kristen hastily tried to inhale."
-    ""
+    "Я безжалостно прорычал свои слова, пока Кристен поспешно пыталась вдохнуть."
 
 # game/script.rpy:929
 translate rus cum_throat_5d9558f4:
 
     # pc "It'll be over as soon as you swallow every last drop of what I've prepared for you."
-    pc ""
+    pc "Все закончится, как только ты проглотишь все до последней капли, что я для тебя приготовил."
 
 # game/script.rpy:930
 translate rus cum_throat_2c2f2666:
 
     # "Kristen whimpers, feeling like she's drowning on my cock. She tries to focus on making me come, bobbing her head faster and sucking harder in an attempt to end this nightmare."
-    ""
+    "Кристен хнычет, чувствуя, что мир плывёт перед её глазами. Она пытается сосредоточиться на том, чтобы заставить меня кончить, быстрее мотает головой и сильнее сосет, пытаясь покончить с этим кошмаром."
 
 # game/script.rpy:931
 translate rus cum_throat_a7602749:
 
     # "Her eyes roll back in her head as I continues to thrust into her throat relentlessly."
-    ""
+    "Ее глаза закатились назад, пока я продолжал безжалостно долбить ее в глотку."
 
 # game/script.rpy:932
 translate rus cum_throat_07cfc0c7:
 
     # k "Khah… I need air…"
-    k ""
+    k "Кхаа... Нужен... Воздух..."
 
 # game/script.rpy:933
 translate rus cum_throat_9a1d352d:
 
     # "I grunt, feeling myself getting closer to the edge. I thrusts even harder into her throat, enjoying the way she gags and chokes on my meaty dick."
-    ""
+    "Я практически хрюкаю, чувствуя, что приближаюсь к краю. Я еще сильнее вонзаюсь в ее горло, наслаждаясь тем, как она задыхается и захлебывается моим мясистым хреном."
 
 # game/script.rpy:934
 translate rus cum_throat_d348df53:
 
     # pc "Almost there!"
-    pc ""
+    pc "Уже почти там, сука!"
 
 # game/script.rpy:935
 translate rus cum_throat_a17e7e83:
 
     # "My hips moving even faster as I nearing my release."
-    ""
+    "Мои бедра задвигались еще быстрее, приближая меня к пиковому наслаждению."
 
 # game/script.rpy:936
 translate rus cum_throat_0a67ff2e:
 
     # pc "You're going to swallow it all, dirty coocksuking slut!"
-    pc ""
+    pc "Ты проглотишь всё до капли, грязная шлюха!"
 
 # game/script.rpy:937
 translate rus cum_throat_4996945d:
 
     # "My cock throbs in a girls mouth, pulsing with each beat of my heart."
-    ""
+    "Мой член раздувается во рту девушки, пульсируя с каждым ударом моего сердца."
 
 # game/script.rpy:938
 translate rus cum_throat_4a736cae:
 
     # "Kristen can feel me getting closer to the edge as I thrust harder into her throat. She tries to keep up, desperate for it to be over so she can breathe again."
-    ""
+    "Кристен чувствует, как я приближаюсь к завершающему аккорду и все сильнее вбиваю хер в ее горло. Она старается не отставать, отчаянно желая, чтобы все закончилось и она снова могла дышать."
 
 # game/script.rpy:939
 translate rus cum_throat_737e32bc:
 
     # "I groan, my body tensing as I am about to come."
-    ""
+    "Я стону, мое тело напрягается, как будто я вот-вот кончу."
 
 # game/script.rpy:940
 translate rus cum_throat_130e14a5:
 
     # "I grabs Kristen's hair tightly, holding her in place while I give her one last full depth thrust, releasing my load into her mouth."
-    ""
+    "Я крепко хватаю Кристен за волосы, удерживая ее на месте, пока делаю последний толчок на всю глубину, выпуская свою кончу в ее рот."
 
 # game/script.rpy:941
 translate rus cum_throat_011b95f3:
 
     # pc "Swallow it, fucking bitch!"
-    pc ""
+    pc "А теперь глотай, сука ёбаня!"
 
 # game/script.rpy:942
 translate rus cum_throat_dcdbe65c:
 
     # "I hold her head impaled on my cock, watching as she gags on my hot, sticky cum."
-    ""
+    "Я держу ее голову на своем члене, наблюдая, как она судорпожно глотает мою горячую, липкую сперму."
 
 # game/script.rpy:943
 translate rus cum_throat_69fcd2e1:
 
     # "Kristen gags on my cum, feeling it fill her mouth and spill down her chin."
-    ""
+    "Кристина глотает мою сперму, чувствуя, как она заполняет ее рот и растекается по подбородку."
 
 # game/script.rpy:944
 translate rus cum_throat_eb09eff7:
 
     # "She tries to swallow as much as she can but some of it drips out, running down her neck and onto her breasts."
-    ""
+    "Она пытается проглотить как можно больше, но часть вытекает, стекая по шее и попадая на грудь."
 
 # game/script.rpy:945
 translate rus cum_throat_b7ef5024:
 
     # "Her eyes water from the pain and humiliation as she struggles to breathe around my dick still lodged firmly in her throat."
-    ""
+    "Ее глаза слезятся от боли и унижения, она пытается дышать, когда мой член заканчивает разряжаться глубоко в ее горло."
 
 # game/script.rpy:946
 translate rus cum_throat_96dc08ee:
 
     # "I pull it out of her mouth, smirking as I watches her gasp for air."
-    ""
+    "Я наконец освобожюаю её рот и ухмыляюсь, глядя, как она с хлюпаньем глотает воздух откашливаясь слюной и спермой."
 
 # game/script.rpy:947
 translate rus cum_throat_617640cc:
 
     # "Wiping my cum from her chin with my thumb, I bringing it to her lips and forcing her to taste it."
-    ""
+    "Вытерев большим пальцем свою сперму с ее подбородка, я поднес пальцы к ее губам и заставил попробовать на вкус."
 
 # game/script.rpy:948
 translate rus cum_throat_449f43ab:
 
     # pc "You're mine now."
-    pc ""
+    pc "Ты моя хуесоска."
 
 # game/script.rpy:949
 translate rus cum_throat_7a4dc4db:
 
     # "I'm looking down on her, enjoying the look of defeat in her wet grey eyes."
-    ""
+    "Я смотрю на нее сверху вниз, наслаждаясь выражением поражения в ее мокрых от слёз серых глазах."
 
 # game/script.rpy:950
 translate rus cum_throat_f241b2ba:
 
     # pc "And you'll never forget it."
-    pc ""
+    pc "И ты этогот никогда не забудешь."
 
 # game/script.rpy:951
 translate rus cum_throat_7c91f200:
 
     # "Kristen whimpers, tasting her own humiliation as I forces her to lick my cum from my thumb."
-    ""
+    "Кристен рыдает, ощущая вкус собственного унижения, когда я заставляю ее слизывать мою сперму с пальцев."
 
 # game/script.rpy:952
 translate rus cum_throat_8018db96:
 
     # "She feels broken and used, her body shaking with fear and arousal as she looks up at me through tear-filled eyes."
-    ""
+    "Она чувствует себя сломленной и использованной, ее тело дрожит от страха и возбуждения, когда она смотрит на меня глазами, полными слез."
 
 # game/script.rpy:953
 translate rus cum_throat_70449a59:
 
     # "Please… let me go!"
-    ""
+    "Пожалуйста... отпусти меня!"
 
 # game/script.rpy:954
 translate rus cum_throat_e08b8d20:
 
     # "She begs once more, hoping that this nightmare will finally end."
-    ""
+    "Она снова умоляет, надеясь, что этот кошмар наконец закончится."
 
 # game/script.rpy:955
 translate rus cum_throat_700db80d:
 
     # "I smirks, enjoying the look of defeat on her face."
-    ""
+    "Я ухмыляюсь, наслаждаясь выражением беспомощности на ее красивом лице."
 
 # game/script.rpy:956
 translate rus cum_throat_f6ccb289:
 
     # pc "I'll let you go, as you have no more use to me."
-    pc ""
+    pc "Я отпущу тебя. Но только потому, что ты мне больше не нужна."
 
 # game/script.rpy:957
 translate rus cum_throat_a60bb5ce:
 
     # "With a powerful kick, I topple the girl to the floor, leaving her lying there gulping air with her mouth like a beached fish, cum dripping from the corner of her mouth."
-    ""
+    "Мощным ударом ноги я опрокидываю девушку на пол, и она лежит, глотая воздух ртом, как рыба на мели, а из уголка ее рта капает сперма."
 
 # game/script.rpy:958
 translate rus cum_throat_972897ae:
 
     # "Standing over her, watching as she gasps for air and tries to regain her composure, I smirk."
-    ""
+    "Стоя над ней и наблюдая за тем, как она задыхается и пытается вернуть себе самообладание, я ухмыляюсь."
 
 # game/script.rpy:959
 translate rus cum_throat_47da35ed:
 
     # "Knowing that I's left my mark on her both physically and emotionally is a realy powerfull stuff."
-    ""
+    "Осознание того, что я оставил на ней свой след, как физический, так и эмоциональный, - это очень мощная штука."
 
 # game/script.rpy:960
 translate rus cum_throat_b2f911fa:
 
     # pc "Remember this night."
-    pc ""
+    pc "Запомни эту ночь, Кристина."
 
 # game/script.rpy:961
 translate rus cum_throat_2609437f:
 
     # "There was my final words, before turning to leave the apartment."
-    ""
+    "Это были мои последние слова перед тем, как повернуться и выйти из квартиры."
 
 # game/script.rpy:969
 translate rus impregnate_42852fc9:
 
     # "I smirked down at her, enjoying her humiliation."
-    ""
+    "Я с ухмылкой смотрел на нее, наслаждаясь ее унижением."
 
 # game/script.rpy:970
 translate rus impregnate_353fe81f:
 
     # pc "On your hands and knees!"
-    pc ""
+    pc "Вставай раком, блядина!"
 
 # game/script.rpy:971
 translate rus impregnate_2b0950fa:
 
     # "I ordered once more, and Kristen complied, her body shaking with fear and exhaustion."
-    ""
+    "Я приказал еще раз, и Кристина подчинилась, ее тело тряслось от страха и изнеможения."
 
 # game/script.rpy:972
 translate rus impregnate_16fe4ce2:
 
     # "I moved behind her, positioning himself at her entrance. With one swift thrust, I entered her, causing her to cry out in pain as I stretched her beyond what she thought possible."
-    ""
+    "Я переместился к ней сзади, расположившись у ее входа. Одним быстрым толчком я вошел в нее, заставив ее вскрикнуть от боли, когда мой толстый хуй растянул ее до предела."
 
 # game/script.rpy:973
 translate rus impregnate_bf897eaa:
 
     # "I didn't give her a moment to adjust, instead pounding into her relentlessly, each thrust driving her further into the floor."
-    ""
+    "Я не давал ей ни секунды на адаптацию, вместо этого без устали вбиваясь в нее, с каждым толчком все глубже вжимая ее в твёрдый пол."
 
 # game/script.rpy:974
 translate rus impregnate_3191b453:
 
     # "Kristen could feel her tears falling onto the hardwood beneath her, mingling with the sweat that dripped from her body."
-    ""
+    "Кристина чувствовала, как ее слезы падают на твердый пол под ней, смешиваясь с потом, который капал с наших разгоряченных тел."
 
 # game/script.rpy:975
 translate rus impregnate_633816c7:
 
     # "As I fucked her brutally, I reached around and began to roughly massage her clit, my fingers digging into her sensitive flesh."
-    ""
+    "Жестоко трахая ее, я потянулся и начал грубо массировать ее клитор, впиваясь пальцами в чувствительную плоть."
 
 # game/script.rpy:976
 translate rus impregnate_95b6cc67:
 
     # k "No... please..."
-    k ""
+    k "Нет... пожалуйста..."
 
 # game/script.rpy:977
 translate rus impregnate_a1161d39:
 
     # "She whimpered again, but her body betrayed her, responding to my touch despite the pain and humiliation."
-    ""
+    "Она снова захныкала, но ее тело предало ее, отвечая на мои прикосновения, несмотря на боль и унижение."
 
 # game/script.rpy:978
 translate rus impregnate_1f3c4f01:
 
     # "Her hips began to move in sync with my, her pussy clenching around my cock as she unwillingly approached another orgasm."
-    ""
+    "Ее бедра начали двигаться синхронно с моими, ее киска сжималась вокруг моего члена, когда она невольно приближалась к очередному оргазму."
 
 # game/script.rpy:979
 translate rus impregnate_b0b5eff7:
 
     # pc "You like that, bitch?"
-    pc ""
+    pc "Тебе это нравится, шлюха?"
 
 # game/script.rpy:980
 translate rus impregnate_9bb9228d:
 
     # "I growled, my breath hot on her neck."
-    ""
+    "Я зарычал и мое дыхание обжигает ее шею."
 
 # game/script.rpy:981
 translate rus impregnate_1df2ad9b:
 
     # pc "Do you like being fucked like a dirty little whore?"
-    pc ""
+    pc "Тебе нравится, когда тебя трахают, как маленькую грязную шлюху?"
 
 # game/script.rpy:982
 translate rus impregnate_71709e44:
 
     # "Kristen couldn't deny it - the pleasure was overwhelming, even amidst the fear and degradation."
-    ""
+    "Кристина не могла отрицать этого - удовольствие было непреодолимым, даже на фоне страха и унижения."
 
 # game/script.rpy:983
 translate rus impregnate_c7223c3e:
 
     # "She moaned loudly as her climax approached, her entire body trembling with the force of it."
-    ""
+    "Она громко застонала, когда наступила кульминация, и все ее тело задрожало от напряжения."
 
 # game/script.rpy:984
 translate rus impregnate_32bb6084:
 
     # "With a final thrust, I drove himself deep inside her, holding still as I came, my hot seed spilling into her."
-    ""
+    "С последним толчком я вошёл в нее, удерживая хуй глубоко внутри, и мое горячее семя хлынуло в нее."
 
 # game/script.rpy:985
 translate rus impregnate_3f5c6302:
 
     # "Kristen cried out, her own orgasm ripping through her as she shuddered beneath me. As the waves of pleasure subsided, she collapsed onto the floor, her body spent and her spirit broken."
-    ""
+    "Кристен закричала, ее собственный оргазм прорвался через нее, и она задрожала подо мной. Когда волны наслаждения стихли, она рухнула на пол, ее тело было истощено, а дух сломлен."
 
 # game/script.rpy:986
 translate rus impregnate_9a0f0bd2:
 
     # "I stood above her, my chest heaving from exertion. I looked down at her with disdain, as if she were nothing more than a used condom."
-    ""
+    "Я стоял над ней, моя грудь вздымалась от напряжения. Я смотрел на нее с презрением, как будто она была не более чем использованным презервативом."
 
 # game/script.rpy:987
 translate rus impregnate_e70c6fa8:
 
     # pc "I'm done with you."
-    pc ""
+    pc "Я закончил с тобой."
 
 # game/script.rpy:995
 translate rus cum_ass_bbbe5520:
 
     # "As I invide her rectum, Kristen screams again, her body shaking violently under the onslaught of my thrusts."
-    ""
+    "Когда я вторгаюсь в ее прямую кишку, Кристен снова кричит, ее тело неистово содрогается под натиском моего толстого хуя."
 
 # game/script.rpy:996
 translate rus cum_ass_46023fbf:
 
     # "I can feel her tightness starting to give way, her ass adjusting slightly to accommodate my girth."
-    ""
+    "Я чувствую, как она начинает поддаваться, как ее попка слегка подстраивается под мои размеры, растягиваясь всё больше."
 
 # game/script.rpy:997
 translate rus cum_ass_f7d92360:
 
     # pc "That's it, take my cock like a good little whore."
-    pc ""
+    pc "Вот так, принимай мой хуй в свою жопу, как хорошая анальная рабыня."
 
 # game/script.rpy:998
 translate rus cum_ass_11a00085:
 
     # "Kristen's vision goes blurry as I continues to pound into her, the pain becoming too much for her to handle."
-    ""
+    "Зрение Кристен затуманивается, когда я продолжаю входить в нее, и боль становится слишком сильной, чтобы она могла с ней справиться."
 
 # game/script.rpy:999
 translate rus cum_ass_a8cf6f06:
 
     # "She feels like she's going to black out from the intensity of it all, but I show no signs of stopping."
-    ""
+    "Ей кажется, что она вот-вот потеряет сознание от интенсивности происходящего, но я не подаю признаков остановки."
 
 # game/script.rpy:1000
 translate rus cum_ass_3eeb3423:
 
     # "I grunt, feeling my orgasm building deep within me. I grabs Kristen's hair roughly, pulling her head back as I thrusts even harder into her ass."
-    ""
+    "Я издаю животные звуки, чувствуя, как оргазм нарастает внутри меня. Грубо хватаю Кристину за волосы, оттягивая ее голову назад, еще сильнее долбя её уже полностью растнутую задницу."
 
 # game/script.rpy:1001
 translate rus cum_ass_8fbc746b:
 
-    # pc "You're gonna take my cum,"
-    pc ""
+    # pc "You're gonna take my cum."
+    pc "Принимай мою сперму."
 
 # game/script.rpy:1002
 translate rus cum_ass_53fa103a:
 
     # "My voice rough with lust and dominance."
-    ""
+    "Мой голос груб от вожделения и доминирования."
 
 # game/script.rpy:1003
 translate rus cum_ass_da550b34:
 
     # pc "And you'll fucking love it!"
-    pc ""
+    pc "И тебе это, блядь, понравится!"
 
 # game/script.rpy:1004
 translate rus cum_ass_dee4fa18:
 
     # "Kristen whimpers, feeling my grip on her hair tightening as I continues to pound into her."
-    ""
+    "Кристина хнычет, чувствуя, как крепнет моя хватка на ее волосах, пока я продолжаю долбить её."
 
 # game/script.rpy:1005
 translate rus cum_ass_d7a7e399:
 
     # "She can feel my cock throbbing inside her, ready to explode at any moment."
-    ""
+    "Она чувствует, как мой член пульсирует внутри, готовый взорваться в любой момент."
 
 # game/script.rpy:1006
 translate rus cum_ass_4a1afae4:
 
     # k "Please… stop..."
-    k ""
+    k "Умоляю... хватит..."
 
 # game/script.rpy:1007
 translate rus cum_ass_9218ef9b:
 
     # "She begs weakly, her body shaking with each brutal stroke."
-    ""
+    "Она слабо умоляет, ее тело содрогается от каждого жестокого удара."
 
 # game/script.rpy:1008
 translate rus cum_ass_a7ae65e9:
 
     # "My orgasm crashes over me like a wave, and I grunts loudly as I empties me balls deep inside her bowels."
-    ""
+    "Оргазм накатывает на меня, как волна, и я громко хриплю, опустошая свои яйца глубоко в ее прямую кишку."
 
 # game/script.rpy:1009
 translate rus cum_ass_f145e642:
 
     # "Kristen screams in pain and pleasure as she feels my hot seed filling her up, the intensity of it all too much to bear."
-    ""
+    "Кристен кричит от боли и удовольствия, чувствуя, как мое горячее семя заполняет ее, и интенсивность этого слишком велика, чтобы выдержать."
 
 # game/script.rpy:1010
 translate rus cum_ass_0a4e3461:
 
     # "I pull out slowly, leaving her gasping for air on the floor."
-    ""
+    "Я медленно выхожу из нее, оставляя ее задыхающейся на полу."
 
 # game/script.rpy:1011
 translate rus cum_ass_10e81e48:
 
-    # pc "You took it like a good little slut,"
-    pc ""
+    # pc "You took it like a good little slut."
+    pc "Вот так чувствую себя настоящие подстилки."
 
 # game/script.rpy:1012
 translate rus cum_ass_0f1fc052:
 
     # "I pant, wiping my sweaty brow with the back of my hand."
-    ""
+    "Я задыхаюсь, вытирая потный лоб тыльной стороной ладони."
 
 # game/script.rpy:1013
 translate rus cum_ass_98a3f194:
 
     # "Kristen lies on the floor, her body shaking and covered in sweat. She feels drained, both physically and emotionally, as she tries to process what just happened."
-    ""
+    "Кристина лежит на полу, ее тело трясется и покрыто потом. Она чувствует себя истощенной как физически, так и эмоционально, пытаясь осмыслить произошедшее."
 
 # game/script.rpy:1014
 translate rus cum_ass_37398811:
 
     # "Tears stream down her face as she looks up at I through tear-filled eyes."
-    ""
+    "Слезы текут по ее лицу, когда она смотрит на меня глазами, полными слез."
 
 # game/script.rpy:1015
 translate rus cum_ass_756fd4c3:
 
     # k "Why…?"
-    k ""
+    k "За что?..."
 
 # game/script.rpy:1016
 translate rus cum_ass_b05d1d41:
 
     # "She whispers weakly, not understanding why I did this to her."
-    ""
+    "Она слабо шепчет, не понимая, почему я так с ней поступил."
 
 # game/script.rpy:1017
 translate rus cum_ass_cabe23c2:
 
     # "I smirk, looking down at her with a mix of satisfaction and contempt."
-    ""
+    "Я ухмыляюсь, глядя на нее со смесью удовлетворения и презрения."
 
 # game/script.rpy:1018
 translate rus cum_ass_475a6517:
 
     # pc "Because I could."
-    pc ""
+    pc "Потому что я могу."
 
 # game/script.rpy:1019
 translate rus cum_ass_a6e655c8:
 
     # "I say it felling empowered by this show of domination, before turning to leave the room."
-    ""
+    "Я говорю это, чувствуя, что обретаю силу от этого демонстративного доминирования, и поворачиваюсь, чтобы выйти из комнаты."
 
 # game/script.rpy:1027
 translate rus flee_9535993e:
 
     # "She lying motionless on a floor in a puddle of my semen. Time to get out!"
-    ""
+    "Она неподвижно лежит на полу в луже моей спермы. Пора выходить!"
 
 # game/script.rpy:1029
 translate rus flee_0c052b1f:
 
     # "FIN"
-    ""
+    "FIN"
 
 translate rus strings:
 
     # game/script.rpy:325
     old "Make love to her"
-    new ""
+    new "Зняться любовью"
 
     # game/script.rpy:325
     old "Rape her brutaly"
-    new ""
+    new "Изнасиловать её жестоко"
 
     # game/script.rpy:401
     old "Blowjob"
-    new ""
+    new "Минет"
 
     # game/script.rpy:401
     old "Sex"
-    new ""
+    new "Секс"
 
     # game/script.rpy:401
     old "Anal"
-    new ""
+    new "Анальный"
 
     # game/script.rpy:751
     old "Fuck her throat"
-    new ""
+    new "Выебать в горло"
 
     # game/script.rpy:751
     old "Forced sex"
-    new ""
+    new "Изнасиловать"
 
     # game/script.rpy:751
     old "Anal rape"
-    new ""
+    new "Содомировать"
 
