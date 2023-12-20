@@ -116,9 +116,9 @@ init -10 python:
 # image kek = TrackCursor(Image(f"images/{persistent.graphic_mode}/checkout dance.png"), 1980, 2970)
 # image anal = "[persistent.graphic_mode]/full anal.png"
 
-image checkout dance = f"images/{persistent.graphic_mode}/checkout dance.png"
-image checkout love = f"images/{persistent.graphic_mode}/checkout love.png"
-image checkout rape = f"images/{persistent.graphic_mode}/checkout rape.png"
+image checkout dance = "images/[persistent.graphic_mode]/checkout dance.png"
+image checkout love = "images/[persistent.graphic_mode]/checkout love.png"
+image checkout rape = "images/[persistent.graphic_mode]/checkout rape.png"
 
 image bg bar = "[persistent.graphic_mode]/bg bar.png"
 image bg dancefloor = "[persistent.graphic_mode]/bg dancefloor.png"

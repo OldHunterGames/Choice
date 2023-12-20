@@ -312,10 +312,10 @@ screen navigation():
         vbox:
             style_prefix 'radio'
             label _("Graphic Mode")
-            textbutton _("Comix") action SetField(persistent, "graphic_mode", "comix"), Function(renpy.reload_script)
-            textbutton _("Cartoon") action SetField(persistent, "graphic_mode", "cartoon"), Function(renpy.reload_script)
-            textbutton _("Photoreal") action SetField(persistent, "graphic_mode", "photoreal"), Function(renpy.reload_script)
-            textbutton _("Pseudo3d") action SetField(persistent, "graphic_mode", "pseudo3d"), Function(renpy.reload_script)
+            textbutton _("Comix") action SetField(persistent, "graphic_mode", "comix")
+            textbutton _("Cartoon") action SetField(persistent, "graphic_mode", "cartoon")
+            textbutton _("Photoreal") action SetField(persistent, "graphic_mode", "photoreal")
+            textbutton _("Pseudo3d") action SetField(persistent, "graphic_mode", "pseudo3d")
 
         if _in_replay:
 
@@ -746,10 +746,10 @@ screen preferences():
                 vbox:
                     style_prefix 'radio'
                     label _("Graphic Mode")
-                    textbutton _("Comix") action SetField(persistent, "graphic_mode", "comix"), Function(renpy.reload_script)
-                    textbutton _("Cartoon") action SetField(persistent, "graphic_mode", "cartoon"), Function(renpy.reload_script)
-                    textbutton _("Photoreal") action SetField(persistent, "graphic_mode", "photoreal"), Function(renpy.reload_script)
-                    textbutton _("Pseudo3d") action SetField(persistent, "graphic_mode", "pseudo3d"), Function(renpy.reload_script)
+                    textbutton _("Comix") action SetField(persistent, "graphic_mode", "comix")
+                    textbutton _("Cartoon") action SetField(persistent, "graphic_mode", "cartoon")
+                    textbutton _("Photoreal") action SetField(persistent, "graphic_mode", "photoreal")
+                    textbutton _("Pseudo3d") action SetField(persistent, "graphic_mode", "pseudo3d")
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
