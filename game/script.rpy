@@ -179,6 +179,7 @@ label start:
     #window auto
     scene bg bar
     $ music_player.play_music = True
+    $ music_player.set_playlist(['sound/music/club01.ogg', 'sound/music/club02.ogg', 'sound/music/club03.ogg'])
     show musicChecker
 
     'I sauntered into the bustling nightclub, my eyes scanning the crowd for my next conquest.'
@@ -277,6 +278,7 @@ label start:
     k "That's great actually. But I'm here not for a small talk. Let's dance!"
     
     scene bg dancefloor
+    $ music_player.set_playlist(['sound/music/dance.ogg'])
 
     show kristen dress happy
     with dissolve
@@ -297,7 +299,7 @@ label start:
     pause
     window auto
 
-    scene bg parking
+    scene bg bar
 
     show kristen dress calm
     with dissolve
@@ -313,7 +315,8 @@ label start:
     k "But I have a better idea." 
     'With that, she grabbed my hand and led us both towards the exit.'
 
-    
+    scene bg parking
+    $ music_player.set_playlist(['sound/music/outside01.ogg', 'sound/music/outside02.ogg'])
 
     'As we stepped out into the cool night air, Kristen glanced around to make sure no one was watching before pulling I towards a dark alleyway between two buildings.'
     'Her heart pounded in her chest with excitement and nerves as she pressed herself against me once more - this time feeling my arousal clearly through our clothes.'
@@ -385,6 +388,7 @@ label start:
 
 label make_love:
 
+    $ music_player.set_playlist(['sound/music/romantic01.ogg', 'sound/music/romantic02.ogg'])
     'I smiled, stepping closer to her.'
     pc "I think I know exactly what I want" 
 
@@ -717,6 +721,8 @@ label goodbye_kiss:
     return
 
 label rape: 
+
+    $ music_player.set_playlist(['sound/music/agro01.ogg', 'sound/music/agro02.ogg'])
     
     'As my gaze locked onto Kristen, a sinister grin spread across my face.'
     'With a swift motion, I pulled out a gun from my pocket and pointed it at her.'
