@@ -9,19 +9,17 @@ define doneAnal = False
 init -10 python:
     import random
 
-    prev_selection = None
-    play_music = False
-
     class MusicPlayer:
         def __init__(self):
             self.prev_selection = None
             self.play_music = False
+            self.music_files = ['/sound/music/pulsingBas01.ogg', '/sound/music/pulsingBas02.ogg', '/sound/music/pulsingBas03.ogg', '/sound/music/pulsingBas04.ogg']
         
         def play_random_music(self):
             if not self.play_music:
                 return
-            music_files = ['/sound/music/pulsingBas01.ogg', '/sound/music/pulsingBas02.ogg', '/sound/music/pulsingBas03.ogg', '/sound/music/pulsingBas04.ogg']
-            random_music_file = random.choice([i for i in music_files if i != self.prev_selection])
+            
+            random_music_file = random.choice([i for i in self.music_files if i != self.prev_selection])
             self.prev_selection = random_music_file
             
             renpy.music.play(random_music_file)
@@ -31,6 +29,10 @@ init -10 python:
                 self.play_random_music()
             
             return Text("Hello"), .1
+
+        def set_playlist(self, music_files):
+            self.music_files = music_files
+            self.play_random_music()
 
     music_player = MusicPlayer()
 
