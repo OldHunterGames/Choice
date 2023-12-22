@@ -1348,7 +1348,7 @@ translate rus anal_9f8da3ab:
 translate rus anal_cacc9f1c:
 
     # "My intentions are clear - I gonna fuck her in the ass."
-    "Она понимает что я хочу сдеалть - выебать её в задницу."
+    "Она понимает что я хочу сделать - выебать её в задницу."
 
 # game/script.rpy:504
 translate rus anal_f5c1ad54:
@@ -1498,7 +1498,7 @@ translate rus anal_a582c056:
 translate rus anal_ce96c6b8:
 
     # "The sight alone sends chills down my spine as I watch my cock disappear into her rectum; each successive thrust pushing deeper into her virgin depths."
-    "От одного этого зрелища у меня по позвоночнику бегут мурашки, когда я смотрю, как мой член исчезает в ее прямой кишке, с каждым толчком проникая все глубже в ее девственные глубины."
+    "От одного этого зрелища у меня по спине бегут мурашки, когда я смотрю, как мой член исчезает в ее прямой кишке, с каждым толчком проникая все глубже в ее девственные глубины."
 
 # game/script.rpy:531
 translate rus anal_8c892991:
