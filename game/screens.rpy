@@ -742,7 +742,7 @@ screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-                
+
                 vbox:
                     style_prefix 'radio'
                     label _("Graphic Mode")
@@ -1524,8 +1524,8 @@ style slider_slider:
 
 # viewport
 screen viewport_screen:
-    viewport: 
-        draggable True 
+    viewport:
+        draggable True
         mousewheel True
         arrowkeys True
         add "checkout dance"
