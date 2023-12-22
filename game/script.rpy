@@ -300,7 +300,6 @@ label start:
     window auto
 
     scene bg bar
-
     show kristen dress calm
     with dissolve
 
@@ -432,7 +431,7 @@ label make_love:
     pause
     window auto
 
-    
+    scene bg room   
     show kristen nude happy
     with dissolve
 
@@ -774,6 +773,7 @@ label rape:
     pause
     window auto
 
+    scene bg room  
     show kristen nude shoked
     with dissolve
 
