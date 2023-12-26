@@ -288,55 +288,73 @@ style quick_button_text:
 screen navigation():
 
     vbox:
-        style_prefix "navigation"
+        xalign 0.05
+        spacing 25
+        style_prefix 'radio'
+        imagebutton:
+            idle "gui/mm_comix_idle.png"
+            hover "gui/mm_comix_hover.png"
+            action SetField(persistent, "graphic_mode", "comix")
+        imagebutton auto "gui/mm_cartoon_%s.png" action SetField(persistent, "graphic_mode", "cartoon")
+        imagebutton auto "gui/mm_realistic_%s.png" action SetField(persistent, "graphic_mode", "photoreal")
+        imagebutton auto "gui/mm_3d_%s.png" action SetField(persistent, "graphic_mode", "pseudo3d")
 
-        xpos gui.navigation_xpos
+    vbox:
+        xalign 0.5
         yalign 0.5
-
-        spacing gui.navigation_spacing
+        spacing 50
 
         if main_menu:
-
-            textbutton _("Start") action Start()
+            imagebutton:
+                idle "gui/mm_start_idle.png"
+                hover "gui/mm_start_hover.png"
+                hover_sound "sound/effects/click.ogg"
+                xalign 0.5
+                action Start()
 
         else:
 
-            textbutton _("History") action ShowMenu("history")
-
             textbutton _("Save") action ShowMenu("save")
 
-        textbutton _("Load") action ShowMenu("load")
+        imagebutton:
+            idle "gui/mm_load_idle.png"
+            hover "gui/mm_load_hover.png"
+            hover_sound "sound/effects/click.ogg"
+            xalign 0.5
+            action ShowMenu("load")
 
-        textbutton _("Preferences") action ShowMenu("preferences")
+        imagebutton:
+            idle "gui/mm_options_idle.png"
+            hover "gui/mm_options_hover.png"
+            hover_sound "sound/effects/click.ogg"
+            xalign 0.5
+            action ShowMenu("preferences")
 
-        vbox:
-            style_prefix 'radio'
-            label _("Graphic Mode")
-            textbutton _("Comix") action SetField(persistent, "graphic_mode", "comix")
-            textbutton _("Cartoon") action SetField(persistent, "graphic_mode", "cartoon")
-            textbutton _("Photoreal") action SetField(persistent, "graphic_mode", "photoreal")
-            textbutton _("Pseudo3d") action SetField(persistent, "graphic_mode", "pseudo3d")
+        if not main_menu:
 
-        if _in_replay:
+            textbutton _("Main Menu"):
+                action MainMenu()
+                xalign 0.5
 
-            textbutton _("End Replay") action EndReplay(confirm=True)
+        imagebutton:
+            idle "gui/mm_about_idle.png"
+            hover "gui/mm_about_hover.png"
+            hover_sound "sound/effects/click.ogg"
+            xalign 0.5
+            action ShowMenu("about")
 
-        elif not main_menu:
+        imagebutton:
+            idle "gui/mm_support_idle.png"
+            hover "gui/mm_support_hover.png"
+            hover_sound "sound/effects/click.ogg"
+            xalign 0.5
+            action NullAction()
 
-            textbutton _("Main Menu") action MainMenu()
+        # if renpy.variant("pc"):
 
-        textbutton _("About") action ShowMenu("about")
-
-        if renpy.variant("pc") or (renpy.variant("web") and not renpy.variant("mobile")):
-
-            ## Help isn't necessary or relevant to mobile devices.
-            textbutton _("Help") action ShowMenu("help")
-
-        if renpy.variant("pc"):
-
-            ## The quit button is banned on iOS and unnecessary on Android and
-            ## Web.
-            textbutton _("Quit") action Quit(confirm=not main_menu)
+        #     ## The quit button is banned on iOS and unnecessary on Android and
+        #     ## Web.
+        #     textbutton _("Quit") action Quit(confirm=not main_menu)
 
 
 style navigation_button is gui_button

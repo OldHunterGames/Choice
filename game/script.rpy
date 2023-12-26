@@ -167,7 +167,7 @@ label splashscreen:
 
 image musicChecker = DynamicDisplayable(music_player.check_music)
 label start:
-
+    jump credits # Remove this and add at game endings
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
