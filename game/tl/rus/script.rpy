@@ -34,7 +34,7 @@ translate rus start_07c52191:
 translate rus start_a5ea051a:
 
     # "Girl's body moved instinctively to every beat of music; it was clear she wasn't just another pretty face but possessed an irresistible allure I couldn't miss out."
-    "Тело девушки инстинктивно двигалось в такт музыке. За этим симпатичным личиком скрывалдось нечто большее - неотразимое обаяние, которое я не мог упустить."
+    "Тело девушки инстинктивно двигалось в такт музыке. За этим симпатичным личиком скрывалось нечто большее - неотразимое обаяние, которое я не мог упустить."
 
 # game/script.rpy:142
 translate rus start_8a3d7f11:
@@ -94,7 +94,7 @@ translate rus start_7e63d62a:
 translate rus start_036a9c2a:
 
     # pc "I just think you're absolutely stunning and want to show you a good time."
-    pc "Просто меня стразили наповал твои движения и я решил что не помешает спросить, вдруг тебе будет приятна моя компания на вечер."
+    pc "Просто меня сразили наповал твои движения и я решил что не помешает спросить, вдруг тебе будет приятна моя компания на вечер."
 
 # game/script.rpy:160
 translate rus start_614378b4:
@@ -118,7 +118,7 @@ translate rus start_d948aac2:
 translate rus start_a5e3d842:
 
     # "She likes the way I touch her and finds herself drawn to my confidence."
-    "Моё смелое прикосновение и ненавязчивая твердость, страбатывают для неё как магнит."
+    "Моё смелое прикосновение и ненавязчивая твердость, срабатывают для неё как магнит."
 
 # game/script.rpy:164
 translate rus start_13238a2e:
@@ -286,7 +286,7 @@ translate rus start_74f69abc:
 translate rus start_f9d76509:
 
     # pc "I can imagine"
-    pc "Даже боюсь себе предтсавить!"
+    pc "Даже боюсь себе представить!"
 
 # game/script.rpy:212
 translate rus start_a6f5f7d9:
@@ -298,7 +298,7 @@ translate rus start_a6f5f7d9:
 translate rus start_558885ad:
 
     # "In reality, I couldn't relate at all. My business was anything but boring for me!"
-    "На самом деле мне её проблемы не близки. Я делаю деньги не выходя из дома и не имею дел ни с назойливыми колегами ни с тупыми клиентами."
+    "На самом деле мне её проблемы не близки. Я делаю деньги не выходя из дома и не имею дел ни с назойливыми колегами, ни с тупыми клиентами."
 
 # game/script.rpy:214
 translate rus start_69dd4f0f:
@@ -310,7 +310,7 @@ translate rus start_69dd4f0f:
 translate rus start_1786c62c:
 
     # k "So what about you? (she asked curiously)"
-    k "А ты сам чем занимаешься? (похоже ей действительно эти интересно)"
+    k "А ты сам чем занимаешься? (похоже, ей действительно эти интересно)"
 
 # game/script.rpy:216
 translate rus start_d238b98a:
@@ -340,7 +340,7 @@ translate rus start_53676a9a:
 translate rus start_ccf080ef:
 
     # pc "I have my hands in a few different things - investments mostly."
-    pc "То одно то другое... портфельные инвестиции по большей части."
+    pc "То одно, то другое... портфельные инвестиции по большей части."
 
 # game/script.rpy:221
 translate rus start_c059abc6:
@@ -610,13 +610,13 @@ translate rus start_214a9dad:
 translate rus start_ee7fb4f4:
 
     # "I could feel her eyes on me as I navigated through the city streets, my hands tight around the steering wheel from both excitement and nerves."
-    "Я чувствовал на себе ее взгляд, когда ехал по городским улицам, и мои руки блуждали по её бедрам подрагивающим от волнения и возбуждения."
+    "Я чувствовал на себе ее взгляд, когда ехал по городским улицам. Мои руки блуждали по её подрагивающим от волнения и возбуждения бедрам."
 
 # game/script.rpy:290
 translate rus start_9913ea8e:
 
     # "She leaned back in her seat, playing coyly with her hair or crossing/uncrossing her legs while occasionally glancing out of the window - teasing me without touching."
-    "Она откинулась на спинку сиденья, жеманно играя волосами, скрещивая вновь раздвигая ноги, изредка поглядывая в окно - дразнила меня, не прикасаясь."
+    "Она откинулась на спинку сиденья, жеманно играя волосами, скрещивая и вновь раздвигая ноги, изредка поглядывая в окно - дразнила меня, не прикасаясь."
 
 # game/script.rpy:291
 translate rus start_84a90acd:
@@ -670,13 +670,13 @@ translate rus start_81b81fc3:
 translate rus start_e53568c0:
 
     # "My hand brushed against hers as she exited; our skin connecting once more underneath the cool night air."
-    "Когда она выходила, моя рука коснулась ее руки теплой на фоне ночной прохлады."
+    "Когда она выходила, моя рука коснулась ее руки, теплой на фоне ночной прохлады."
 
 # game/script.rpy:303
 translate rus start_c83cf296:
 
     # "We walked up together towards Kristen's apartment building entrance, my arm wrapping around her waist possessively while hers found its way onto my shoulder - both of us lost in each other already…"
-    "Мы вместе шли к подъезду дома, где жила Кристины, моя рука собственнически обхватывала ее талию, а ее - мое плечо - мы оба уже потерялись друг в друге..."
+    "Мы вместе шли к подъезду дома, где жила Кристина, моя рука собственнически обхватывала ее талию, а ее - мое плечо - мы оба уже потерялись друг в друге..."
 
 # game/script.rpy:304
 translate rus start_6820ecdb:
@@ -718,13 +718,13 @@ translate rus start_39e0b82b:
 translate rus start_36762b2f:
 
     # "Kristen pouted her lips in slight annoyance."
-    "Кристен надула свои пухлые губки демонстрируя легкое раздражение."
+    "Кристина надула свои пухлые губки, демонстрируя легкое раздражение."
 
 # game/script.rpy:323
 translate rus start_6fd46a44:
 
     # k "Hey, macho, you're the one who made a move on me at the bar. So you tell me. What do you want? Make a choice!"
-    k "Эй, мачо, это же ты сделал подкатил ко мне в баре, вот ты мне и скажи. Чего ты хочешь? Сделай выбор!"
+    k "Эй, мачо, это же ты подкатил ко мне в баре, вот ты мне и скажи. Чего ты хочешь? Сделай выбор!"
 
 # game/script.rpy:336
 translate rus make_love_c484aaa4:
@@ -2332,7 +2332,7 @@ translate rus rape_f322a124:
 translate rus rape_9816abf9:
 
     # "I growl, my voice low and rough."
-    "Я рычу это низкии и грубыи голосом."
+    "Я рычу это низким и грубым голосом."
 
 # game/script.rpy:728
 translate rus rape_33d17c44:
@@ -3028,7 +3028,7 @@ translate rus anal_rape_0ca08e93:
 translate rus anal_rape_3ecab73c:
 
     # "I'm pulling out slowly before slamming back in again."
-    "Я медленно вытаскиваю свой хер, а затем снова двигяю его вперёд."
+    "Я медленно вытаскиваю свой хер, а затем снова двигаю его вперёд."
 
 # game/script.rpy:892
 translate rus anal_rape_3902ca6a:
@@ -3622,7 +3622,7 @@ translate rus cum_ass_0a4e3461:
 translate rus cum_ass_10e81e48:
 
     # pc "You took it like a good little slut."
-    pc "Вот так чувствую себя настоящие подстилки."
+    pc "Вот так чувствуют себя настоящие подстилки."
 
 # game/script.rpy:1012
 translate rus cum_ass_0f1fc052:
