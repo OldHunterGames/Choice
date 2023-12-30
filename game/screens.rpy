@@ -294,10 +294,11 @@ screen navigation():
         imagebutton:
             idle "gui/mm_comix_idle.png"
             hover "gui/mm_comix_hover.png"
+            hover_sound "sound/effects/click.ogg"
             action SetField(persistent, "graphic_mode", "comix")
-        imagebutton auto "gui/mm_cartoon_%s.png" action SetField(persistent, "graphic_mode", "cartoon")
-        imagebutton auto "gui/mm_realistic_%s.png" action SetField(persistent, "graphic_mode", "photoreal")
-        imagebutton auto "gui/mm_3d_%s.png" action SetField(persistent, "graphic_mode", "pseudo3d")
+        imagebutton auto "gui/mm_cartoon_%s.png" action SetField(persistent, "graphic_mode", "cartoon") hover_sound "sound/effects/click.ogg"
+        imagebutton auto "gui/mm_realistic_%s.png" action SetField(persistent, "graphic_mode", "photoreal") hover_sound "sound/effects/click.ogg"
+        imagebutton auto "gui/mm_3d_%s.png" action SetField(persistent, "graphic_mode", "pseudo3d") hover_sound "sound/effects/click.ogg"
 
     vbox:
         xalign 0.5
