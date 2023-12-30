@@ -316,6 +316,8 @@ label start:
     scene bg parking
     $ music_player.set_playlist(['sound/music/outside01.ogg', 'sound/music/outside02.ogg'])
 
+    show kristen dress calm
+    with dissolve
     'As we stepped out into the cool night air, Kristen glanced around to make sure no one was watching before pulling I towards a dark alleyway between two buildings.'
     'Her heart pounded in her chest with excitement and nerves as she pressed herself against me once more - this time feeling my arousal clearly through our clothes.'
     k "I have an empty apartment in a downtown."
@@ -329,25 +331,28 @@ label start:
     'I chuckled softly, leading her over to my sleek black sports car parked nearby.'
     pc "Right here." 
     "I unlocked the doors for us both before climbing into the driver's seat."
+
+    hide kristen
+    with dissolve    
+    scene bg drive
     'The interior of the vehicle was just as luxurious as its exterior - leather seats and smooth surfaces everywhere you looked.'
     'I turned towards Kristen, one eyebrow raised in question; she seemed eager but hesitant at the same time…'
     "Kristen nodded, climbing into the passenger seat and buckling her seatbelt."
     "Let's go!" 
     "She said it with determination, already imagining what we could get up to in my car…"
 
-    hide kristen
-    with dissolve
-
     "The drive to Kristen's apartment was filled with tension and anticipation."
     "I could feel her eyes on me as I navigated through the city streets, my hands tight around the steering wheel from both excitement and nerves."
     "She leaned back in her seat, playing coyly with her hair or crossing/uncrossing her legs while occasionally glancing out of the window - teasing me without touching."
+
     "Finally pulling up outside an unassuming building near downtown, I turned off the engine but made no move to get out just yet"
     'I was looking at this woman who had captivated me so completely since our first encounter at the bar…'
+    scene bg parking
+    show kristen dress calm
+    with dissolve
     "Kristen's heart raced as we pulled up outside her apartment building. This was it - the moment of truth."
     "She turned towards me, biting her bottom lip nervously but determined not to show any hesitation or fear."   
 
-    show kristen dress calm
-    with dissolve
     k "Well? Aren't you coming in?"
     'I smirked, stepping out of the car and rounding it to her side.'
     pc "Of course." 
