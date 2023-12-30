@@ -379,7 +379,7 @@ screen main_menu():
         imagebutton auto "gui/mm_cartoon_%s.png" action SetField(persistent, "graphic_mode", "cartoon") hover_sound "sound/effects/click.ogg"
         imagebutton auto "gui/mm_realistic_%s.png" action SetField(persistent, "graphic_mode", "photoreal") hover_sound "sound/effects/click.ogg"
         imagebutton auto "gui/mm_3d_%s.png" action SetField(persistent, "graphic_mode", "pseudo3d") hover_sound "sound/effects/click.ogg"
-
+    image "gui/mm_title.png" xalign 0.5
     vbox:
         xalign 0.5
         yalign 0.5
