@@ -36,10 +36,6 @@ init:
 #    image cred = Text(credits_s, font="myfont.ttf", text_align=0.5) #use this if you want to use special fonts
     image cred = VBox(
         Text(credits_s, text_align=0.0), 
-        HBox(
-            TextButton(__("Get more games by Old Huntsman"), action=NullAction()),
-            TextButton(__("Make another Choice!"), action=MainMenu(confirm=False)),
-            xalign=0.8,
-            spacing=10
-        )
+        TextButton(__("Get more games by Old Huntsman"), action=OpenURL("https://peakd.com/@oldhuntsman ")),
+        TextButton(__("Make another Choice!"), action=MainMenu(confirm=False)),
     )

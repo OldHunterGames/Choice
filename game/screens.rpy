@@ -429,7 +429,7 @@ screen main_menu():
             hover "gui/mm_support_hover.png"
             hover_sound "sound/effects/click.ogg"
             xalign 0.5
-            action NullAction()
+            action OpenURL("https://peakd.com/@oldhuntsman ")
 
 
 style main_menu_frame is empty
