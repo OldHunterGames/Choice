@@ -288,6 +288,86 @@ style quick_button_text:
 screen navigation():
 
     vbox:
+        style_prefix "navigation"
+
+        xpos gui.navigation_xpos
+        yalign 0.5
+
+        spacing gui.navigation_spacing
+
+        if main_menu:
+
+            textbutton _("Start") action Start()
+
+        else:
+
+            textbutton _("History") action ShowMenu("history")
+
+            textbutton _("Save") action ShowMenu("save")
+
+        textbutton _("Load") action ShowMenu("load")
+
+        textbutton _("Preferences") action ShowMenu("preferences")
+
+        vbox:
+            style_prefix 'radio'
+            label _("Graphic Mode")
+            textbutton _("Comix") action SetField(persistent, "graphic_mode", "comix")
+            textbutton _("Cartoon") action SetField(persistent, "graphic_mode", "cartoon")
+            textbutton _("Photoreal") action SetField(persistent, "graphic_mode", "photoreal")
+            textbutton _("Pseudo3d") action SetField(persistent, "graphic_mode", "pseudo3d")
+
+        if _in_replay:
+
+            textbutton _("End Replay") action EndReplay(confirm=True)
+
+        elif not main_menu:
+
+            textbutton _("Main Menu") action MainMenu()
+
+        textbutton _("About") action ShowMenu("about")
+
+        if renpy.variant("pc") or (renpy.variant("web") and not renpy.variant("mobile")):
+
+            ## Help isn't necessary or relevant to mobile devices.
+            textbutton _("Help") action ShowMenu("help")
+
+        if renpy.variant("pc"):
+
+            ## The quit button is banned on iOS and unnecessary on Android and
+            ## Web.
+            textbutton _("Quit") action Quit(confirm=not main_menu)
+
+
+style navigation_button is gui_button
+style navigation_button_text is gui_button_text
+
+style navigation_button:
+    size_group "navigation"
+    properties gui.button_properties("navigation_button")
+
+style navigation_button_text:
+    properties gui.button_text_properties("navigation_button")
+
+
+## Main Menu screen ############################################################
+##
+## Used to display the main menu when Ren'Py starts.
+##
+## https://www.renpy.org/doc/html/screen_special.html#main-menu
+
+screen main_menu():
+
+    ## This ensures that any other menu screen is replaced.
+    tag menu
+
+    add Movie(play=f"gui/{persistent.graphic_mode}/main_menu.webm")
+
+    ## This empty frame darkens the main menu.
+    frame:
+        style "main_menu_frame"
+
+    vbox:
         xalign 0.05
         spacing 25
         style_prefix 'radio'
@@ -351,56 +431,6 @@ screen navigation():
             xalign 0.5
             action NullAction()
 
-        # if renpy.variant("pc"):
-
-        #     ## The quit button is banned on iOS and unnecessary on Android and
-        #     ## Web.
-        #     textbutton _("Quit") action Quit(confirm=not main_menu)
-
-
-style navigation_button is gui_button
-style navigation_button_text is gui_button_text
-
-style navigation_button:
-    size_group "navigation"
-    properties gui.button_properties("navigation_button")
-
-style navigation_button_text:
-    properties gui.button_text_properties("navigation_button")
-
-
-## Main Menu screen ############################################################
-##
-## Used to display the main menu when Ren'Py starts.
-##
-## https://www.renpy.org/doc/html/screen_special.html#main-menu
-
-screen main_menu():
-
-    ## This ensures that any other menu screen is replaced.
-    tag menu
-
-    add Movie(play=f"gui/{persistent.graphic_mode}/main_menu.webm")
-
-    ## This empty frame darkens the main menu.
-    frame:
-        style "main_menu_frame"
-
-    ## The use statement includes another screen inside this one. The actual
-    ## contents of the main menu are in the navigation screen.
-    use navigation
-
-    if gui.show_name:
-
-        vbox:
-            style "main_menu_vbox"
-
-            text "[config.name!t]":
-                style "main_menu_title"
-
-            text "[config.version]":
-                style "main_menu_version"
-
 
 style main_menu_frame is empty
 style main_menu_vbox is vbox
@@ -448,6 +478,7 @@ screen game_menu(title, scroll=None, yinitial=0.0):
         add gui.main_menu_background
     else:
         add gui.game_menu_background
+    add Movie(play=f"gui/{persistent.graphic_mode}/main_menu.webm")
 
     frame:
         style "game_menu_outer_frame"
@@ -579,14 +610,13 @@ screen about():
 
         vbox:
 
-            label "The Choice"
-            text _("V 1.0.0")
+            label "[config.name!t]"
+            text _("Version [config.version!t]\n")
 
             ## gui.about is usually set in options.rpy.
             if gui.about:
                 text "[gui.about!t]\n"
 
-            text _("This short game was created by Old Hunter Games studio as a technical demonstration of the possibilities of generative artificial intelligence in text-based game creation. \n \n All music, songs, descriptions, dialog, and images in the game are created using neural networks. \n\n The game has four illustration styles that you can switch between in the main menu or in the options menu while you play. \n")    
             text _("Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]")
 
 
@@ -762,7 +792,7 @@ screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-
+                
                 vbox:
                     style_prefix 'radio'
                     label _("Graphic Mode")
@@ -1544,8 +1574,8 @@ style slider_slider:
 
 # viewport
 screen viewport_screen:
-    viewport:
-        draggable True
+    viewport: 
+        draggable True 
         mousewheel True
         arrowkeys True
         add "checkout dance"
