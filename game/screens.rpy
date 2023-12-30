@@ -579,13 +579,14 @@ screen about():
 
         vbox:
 
-            label "[config.name!t]"
-            text _("Version [config.version!t]\n")
+            label "The Choice"
+            text _("V 1.0.0")
 
             ## gui.about is usually set in options.rpy.
             if gui.about:
                 text "[gui.about!t]\n"
 
+            text _("This short game was created by Old Hunter Games studio as a technical demonstration of the possibilities of generative artificial intelligence in text-based game creation. \n \n All music, songs, descriptions, dialog, and images in the game are created using neural networks. \n\n The game has four illustration styles that you can switch between in the main menu or in the options menu while you play. \n")    
             text _("Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]")
 
 

@@ -1,11 +1,12 @@
 label credits:
-    $ credits_speed = 35 #scrolling speed in seconds
+    $ credits_speed = 40 #scrolling speed in seconds
     $ renpy.music.play("sound/music/credits.ogg")
     scene black #replace this with a fancy background
     window hide
     with dissolve
     show expression "images/credits01.png" at right
-    show cred at Move((0.27, 4.0), (0.27, 0.5), credits_speed, repeat=False, bounce=False, xanchor="center", yanchor="bottom")
+    #show cred at Move((0.27, 4.0), (0.27, 0.5), credits_speed, repeat=False, bounce=False, xanchor="center", yanchor="bottom")
+    show cred at Move((0.27, 3.5), (0.27, 0.5), credits_speed, repeat=False, bounce=False, xanchor="center", yanchor="bottom")
     $ renpy.pause(credits_speed * 100, hard=True)
     return
 
@@ -22,8 +23,8 @@ init python:
         "Animation by Leiapix (AI)",
         "Music by Suno (AI)",
         "Title song lyrics by ChatGPT 3.5 (AI)",
-        "Russian translation buy DeepL (AI)",
-        "Glory to  robots!",
+        "Russian translation by DeepL (AI)",
+        "Glory to robots!",
         "\n",
         "\n"
     )
