@@ -12,19 +12,19 @@ label credits:
 
 init python:
     credits = (
-        'Thank you for playing "The Choice"!',
-        "Game designer: Old Huntsman (human)",
-        "Programmer: M1kEk1M (human)",
-        "Texts & Dialogues by Mistral 13B on Agnaistic.chat (AI)",
-        "Realistic style art by EpicPhotoGasm-SD 1.5 (AI)",
-        "Comix style art by ArtemyComix-SD 1.5 (AI)",
-        "Pixar 3D style art by HelloNiji-SD 1.5 (AI)",
-        "Cartoon style art by HelloYoung-SD 1.5 (AI)",
-        "Animation by Leiapix (AI)",
-        "Music by Suno (AI)",
-        "Title song lyrics by ChatGPT 3.5 (AI)",
-        "Russian translation by DeepL (AI)",
-        "Glory to robots!",
+        __('Thank you for playing "The Choice"!'),
+        __("Game designer: Old Huntsman (human)"),
+        __("Programmer: M1kEk1M (human)"),
+        __("Texts & Dialogues by Mistral 13B on Agnaistic.chat (AI)"),
+        __("Realistic style art by EpicPhotoGasm-SD 1.5 (AI)"),
+        __("Comix style art by ArtemyComix-SD 1.5 (AI)"),
+        __("Pixar 3D style art by HelloNiji-SD 1.5 (AI)"),
+        __("Cartoon style art by HelloYoung-SD 1.5 (AI)"),
+        __("Animation by Leiapix (AI)"),
+        __("Music by Suno (AI)"),
+        __("Title song lyrics by ChatGPT 3.5 (AI)"),
+        __("Russian translation by DeepL (AI)"),
+        __("Glory to robots!"),
         "\n",
         "\n"
     )
@@ -37,8 +37,8 @@ init:
     image cred = VBox(
         Text(credits_s, text_align=0.0), 
         HBox(
-            TextButton("Get more games by Old Huntsman", action=NullAction()),
-            TextButton("Make another Choice!", action=MainMenu(confirm=False)),
+            TextButton(__("Get more games by Old Huntsman"), action=NullAction()),
+            TextButton(__("Make another Choice!"), action=MainMenu(confirm=False)),
             xalign=0.8,
             spacing=10
         )

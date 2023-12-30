@@ -346,3 +346,11 @@ translate rus strings:
     old "Menu"
     new "Меню"
 
+# TODO: Translation updated at 2023-12-31 00:59
+
+translate rus strings:
+
+    # game/screens.rpy:1086
+    old "Page Down"
+    new ""
+
