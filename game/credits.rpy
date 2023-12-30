@@ -1,5 +1,5 @@
 label credits:
-    $ credits_speed = 25 #scrolling speed in seconds
+    $ credits_speed = 35 #scrolling speed in seconds
     $ renpy.music.play("sound/music/credits.ogg")
     scene black #replace this with a fancy background
     window hide
