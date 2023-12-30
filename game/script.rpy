@@ -167,7 +167,6 @@ label splashscreen:
 
 image musicChecker = DynamicDisplayable(music_player.check_music)
 label start:
-    jump credits # Remove this and add at game endings
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
@@ -717,6 +716,8 @@ label goodbye_kiss:
 
     "FIN"
 
+    jump credits
+
     return
 
 label rape: 
@@ -1085,6 +1086,8 @@ label flee:
     "She lying motionless on a floor in a puddle of my semen. Time to get out!"
 
     "FIN"
+
+    jump credits
 
     return
 

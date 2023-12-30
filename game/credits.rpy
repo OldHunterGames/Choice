@@ -5,8 +5,8 @@ label credits:
     window hide
     with dissolve
     show expression "images/credits01.png" at right
-    show cred at Move((0.27, 5.0), (0.27, 0.0), credits_speed, repeat=False, bounce=False, xanchor="center", yanchor="bottom")
-    with Pause(credits_speed)
+    show cred at Move((0.27, 4.0), (0.27, 0.5), credits_speed, repeat=False, bounce=False, xanchor="center", yanchor="bottom")
+    $ renpy.pause(credits_speed * 100, hard=True)
     return
 
 init python:
@@ -24,6 +24,8 @@ init python:
         "Title song lyrics by ChatGPT 3.5 (AI)",
         "Russian translation buy DeepL (AI)",
         "Glory to  robots!",
+        "\n",
+        "\n"
     )
     credits_s = ''
     for c in credits:
@@ -31,4 +33,12 @@ init python:
     
 init:
 #    image cred = Text(credits_s, font="myfont.ttf", text_align=0.5) #use this if you want to use special fonts
-    image cred = Text(credits_s, text_align=0.0)
+    image cred = VBox(
+        Text(credits_s, text_align=0.0), 
+        HBox(
+            TextButton("Get more games by Old Huntsman", action=NullAction()),
+            TextButton("Make another Choice!", action=MainMenu(confirm=False)),
+            xalign=0.8,
+            spacing=10
+        )
+    )
