@@ -127,8 +127,8 @@ image bg dancefloor = "[persistent.graphic_mode]/bg dancefloor.png"
 image bg parking = "[persistent.graphic_mode]/bg parking.png"
 image bg room = "[persistent.graphic_mode]/bg room.png"
 image full anal = "[persistent.graphic_mode]/full anal.png"
-image full happy = "[persistent.graphic_mode]/full happy.png"
-image full tears = "[persistent.graphic_mode]/full tears.png"
+image full bj happy = "[persistent.graphic_mode]/full bj happy.png"
+image full bj tears = "[persistent.graphic_mode]/full bj tears.png"
 image full sex happy = "[persistent.graphic_mode]/full sex happy.png"
 image full sex tears = "[persistent.graphic_mode]/full sex tears.png"
 image kristen dress calm = "[persistent.graphic_mode]/kristen dress calm.png"
@@ -391,7 +391,7 @@ label start:
 
 label make_love:
 
-    $ music_player.set_playlist(['sound/music/romantic01.ogg', 'sound/music/romantic02.ogg'])
+    $ music_player.set_playlist(['sound/music/romantic01.ogg', 'sound/music/romantic02.ogg', 'sound/music/romantic03.ogg', 'sound/music/romantic04.ogg', 'sound/music/romantic05.ogg', 'sound/music/romantic06.ogg', ])
     'I smiled, stepping closer to her.'
     pc "I think I know exactly what I want" 
 
@@ -732,7 +732,7 @@ label goodbye_kiss:
 
 label rape: 
 
-    $ music_player.set_playlist(['sound/music/agro01.ogg', 'sound/music/agro02.ogg'])
+    $ music_player.set_playlist(['sound/music/agro01.ogg', 'sound/music/agro02.ogg', 'sound/music/agro03.ogg', 'sound/music/agro04.ogg', 'sound/music/agro05.ogg', 'sound/music/agro06.ogg'])
     
     'As my gaze locked onto Kristen, a sinister grin spread across my face.'
     'With a swift motion, I pulled out a gun from my pocket and pointed it at her.'
@@ -850,7 +850,7 @@ label throatfuck:
     show full bj tears
     "I smirk, pushing my cock into her mouth roughly, grabbing her hair and forcing my cock deeper down her throat."
     pc "That's right." 
-    "Kristen gags on mmy rod, her eyes watering as she struggles to breathe around my thickness."
+    "Kristen gags on my rod, her eyes watering as she struggles to breathe around my thickness."
     pc "Take it all, whore!" 
     "I start to thrust in and out of her mouth with increasing speed."
     "As my thrusts become more forceful, my hips slamming against her face." 

@@ -2487,7 +2487,7 @@ translate rus throatfuck_e7874c6c:
 # game/script.rpy:782
 translate rus throatfuck_77945665:
 
-    # "Kristen gags on mmy rod, her eyes watering as she struggles to breathe around my thickness."
+    # "Kristen gags on my rod, her eyes watering as she struggles to breathe around my thickness."
     "Кристина задыхается насаженная ртом на мой стержень, ее глаза слезятся, когда она пытается дышать."
 
 # game/script.rpy:783
