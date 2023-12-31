@@ -478,6 +478,9 @@ label sex_selector:
 
 label blowjob:
 
+    show kristen nude happy
+    with dissolve
+
     'I took a step closer to her, my eyes burning with desire as I ran my hands up and down her naked body.'
     pc "You're even more beautiful without your clothes on."
     'Kristen felt her cheeks flush at my compliment, her nipples hardening under my touch.' 
@@ -515,6 +518,8 @@ label blowjob:
 
 label sex:
     
+    show kristen nude happy
+    with dissolve
     'I swiftly moved forward, pressing my lean yet ripped body against her soft curves.'
     'My hands glide over every inch of her supple skin, trailing up towards her firm large breasts that jiggle enticingly under my touch.'
     'With a deft movement, I couped one in each hand and gently squeeze them before lowering my head to capture a throbbing nipple between my lips.'
@@ -552,6 +557,8 @@ label sex:
 
 label anal:
 
+    show kristen nude happy
+    with dissolve
     'With a smooth confidence, I take the lead by wrapping my strong arms around her waist and pulling her body close to my own.'
     'I wmyper softly into her ear'
     pc "You really are stunningly beautiful"
@@ -719,8 +726,6 @@ label goodbye_kiss:
     "I couldn't help but feel a twinge of excitement as I thought about it all."
     pc '"You take care now," I said over my shoulder, not wanting to make things too awkward between us. "And thanks for the night."'
 
-    "FIN"
-
     jump credits
 
     return
@@ -832,6 +837,8 @@ label rape_selector:
 
 label throatfuck:
 
+    show kristen nude shoked
+    with dissolve    
     'I push her down on the floor.'
     pc "Kneel, bitch! You'll beg for me."
     "Kristen's heart races as she kneels before me, her eyes wide with fear and arousal."
@@ -867,6 +874,8 @@ label throatfuck:
 
 label forced_sex:
 
+    show kristen nude shoked
+    with dissolve    
     pc "On your back, whore!" 
     "I'm taking charge, shoving her down onto the couch."
     "Girl complied, her body trembling with fear as I towered over her."
@@ -929,6 +938,8 @@ label forced_sex:
 
 label anal_rape:
 
+    show kristen nude shoked
+    with dissolve    
     pc "Now get on all fours and spread your ass for me, bitch!"
     "Kristen's heart races as she complies, her body shaking with fear and arousal. She gets on all fours, spreading her legs wide to expose herself fully to me."
     k "Please, not in the ass." 
@@ -1089,8 +1100,6 @@ label flee:
     scene bg room
 
     "She lying motionless on a floor in a puddle of my semen. Time to get out!"
-
-    "FIN"
 
     jump credits
 

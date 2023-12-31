@@ -12,32 +12,31 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("Choice")
+define config.name = _("The Choice")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
 
-define gui.show_name = True
+define gui.show_name = False
 
 
 ## The version of the game.
 
-define config.version = "1.0"
+define config.version = "1.0.0"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
-define gui.about = _p("""
-""")
+define gui.about = _p("This short game was created by Old Hunter Games studio as a technical demonstration of the possibilities of generative artificial intelligence in text-based game creation. \n\n All music, songs, descriptions, dialog, and images in the game are created using neural networks. \n\n The game has four illustration styles that you can switch between in the main menu or in the options menu while you play. ")
 
 
 ## A short name for the game used for executables and directories in the built
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "Choice"
+define build.name = "choice"
 
 
 ## Sounds and music ############################################################
@@ -48,7 +47,7 @@ define build.name = "Choice"
 
 define config.has_sound = True
 define config.has_music = True
-define config.has_voice = True
+define config.has_voice = False
 
 
 ## To allow the user to play a test sound on the sound or voice channel,

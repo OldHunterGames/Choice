@@ -429,7 +429,7 @@ screen main_menu():
             hover "gui/mm_support_hover.png"
             hover_sound "sound/effects/click.ogg"
             xalign 0.5
-            action OpenURL("https://peakd.com/@oldhuntsman ")
+            action OpenURL("https://peakd.com/adultgames/@oldhuntsman/the-choice-10x-actualization-page ")
 
 
 style main_menu_frame is empty
